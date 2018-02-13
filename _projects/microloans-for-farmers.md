@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Microloans for Farmers
+title: Connect with the Privacy Council
 description: A new letter increases farmers' access to credit by 22%.
 permalink: /projects/microloans-for-farmers/
 tags: project
