@@ -4456,3 +4456,48 @@ input.usa-input-medium {
   COLOR: #FFFFFF;
   font-size: 16px;  
 }
+
+
+
+.page_header {
+  font-family: 'Poppins', sans-serif;
+  COLOR: #515151; 
+  font-size: 42px; align: left;
+}
+
+.page_sub_header {
+  font-family: 'Poppins', sans-serif;
+  COLOR: #515151; 
+  font-size: 24px; align: left;
+}
+
+.section_header {
+ font-family: 'Poppins', sans-serif; 
+ COLOR: #515151; 
+ font-size: 28px; 
+ align: left;
+}
+
+
+.sub_section_header {
+ font-family: 'Poppins', sans-serif; 
+ COLOR: #515151; 
+ font-size: 20px; 
+ align: left;
+}
+
+
+.icon_caption {
+ font-family: 'Poppins', sans-serif; 
+ COLOR: #0071bc; 
+ font-size: 20px; 
+}
+
+
+.post-date  {font-color: #ffffff; }
+
+.footer_links_title  { font-size: 18px; font-weight: bold; }
+
+.footer_link {color: #ffffff;}
+
+
