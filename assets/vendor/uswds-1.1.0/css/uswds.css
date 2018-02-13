@@ -4444,3 +4444,15 @@ input.usa-input-medium {
   top: 0;
   transition: all 0.2s ease-in-out;
 }
+
+.hero_style {
+  font-family: 'Poppins', sans-serif;
+  COLOR: #FFFFFF;
+  font-size: 26px;  
+}
+
+.hero_sub_style {
+  font-family: 'Poppins', sans-serif;
+  COLOR: #FFFFFF;
+  font-size: 20px;  
+}
