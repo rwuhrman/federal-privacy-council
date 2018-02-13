@@ -3,7 +3,7 @@ assigned:
         text: Federal Privacy Council
         href: pages/home.md
         permalink: /
-        show_in_menu: false
+        show_in_menu: true
         show_in_footer: false
     -
         text: Law Library
@@ -37,6 +37,13 @@ assigned:
     -
         text: 'Federal Agencies'
         href: _data/projects.yml
-        show_in_menu: false
+        show_in_menu: true
         show_in_footer: false
+    -
+        text: 'Careers'
+        href: _data/projects.yml
+        show_in_menu: true
+        show_in_footer: false
+
+
 unassigned: []
