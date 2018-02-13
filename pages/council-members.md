@@ -1,7 +1,7 @@
 ---
 layout: council-members
 body-class: home
-permalink: /council-members/
+permalink: /federal-privacy-council/council-members/
 background-image: /assets/img/fpc-conference.jpg
 hero-text: 
 hero-byline:
