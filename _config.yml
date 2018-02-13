@@ -1,8 +1,8 @@
 # Site settings
-title: Your Site Name
-description: A description of your website that will show up in search indexes and social media shares.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://federalist-modern-team-template.18f.gov" # the base hostname & protocol for your site
+title: Federal Privacy Council
+description: Official Website of the US Federal Privacy Council
+baseurl: "/site/rwuhrman/federal-privacy-council/" # the subpath of your site, e.g. /blog/
+url: "https://federalist-proxy.app.cloud.gov/" # the base hostname & protocol for your site
 logo: /assets/img/logo-main.gif
 feature_image: /assets/img/feature-background.jpg
 org_name: 18f
