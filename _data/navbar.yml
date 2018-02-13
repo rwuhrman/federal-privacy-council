@@ -6,7 +6,7 @@ assigned:
         show_in_menu: true
         show_in_footer: false
     -
-        text: Law Library
+        text: Law
         href: pages/about.md
         permalink: /about/
         show_in_menu: true
