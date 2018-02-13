@@ -12,4 +12,4 @@ banner-text:
 banner-button-text: Learn more
 banner-button-link: /about/
 ---
-## What we do
+
