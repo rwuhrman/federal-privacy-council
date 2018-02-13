@@ -1,18 +1,18 @@
 assigned:
     -
-        text: Home
+        text: Federal Privacy Council
         href: pages/home.md
         permalink: /
         show_in_menu: false
         show_in_footer: false
     -
-        text: About
+        text: Law Library
         href: pages/about.md
         permalink: /about/
         show_in_menu: true
         show_in_footer: false
     -
-        text: Work
+        text: Resources
         href: pages/projects.md
         permalink: /projects/
         show_in_menu: true
@@ -29,13 +29,13 @@ assigned:
                 show_in_menu: false
                 show_in_footer: false
     -
-        text: 'Team'
+        text: 'Implementation'
         href: pages/team.md
         permalink: /team/
         show_in_menu: true
         show_in_footer: false
     -
-        text: 'Project data'
+        text: 'Federal Agencies'
         href: _data/projects.yml
         show_in_menu: false
         show_in_footer: false
