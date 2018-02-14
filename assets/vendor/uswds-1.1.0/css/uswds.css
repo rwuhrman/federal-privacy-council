@@ -4445,19 +4445,80 @@ input.usa-input-medium {
   transition: all 0.2s ease-in-out;
 }
 
-.hero_style {
-  font-family: 'Poppins', sans-serif;
-  COLOR: #FFFFFF;
-  font-size: 22px;  
+
+
+
+.tbtable {
+  display: table;
+  width: 100%;
+  margin-bottom: 2em;
+  vertical-align: top;
 }
 
-.hero_sub_style {
-  font-family: 'Poppins', sans-serif;
-  COLOR: #FFFFFF;
-  font-size: 16px;  
+.tbcell {
+  display: table-cell;
+  vertical-align: top;
+}
+
+.tbleft {
+  background: #ffffff;
+  vertical-align: top;
+}
+
+.tbright {
+  background: #ffffff;
+  vertical-align: top;
+  text-align: right /* only needed for the table version */
+}
+
+.tbcell div {
+  display: inline-block;
+  vertical-align: top;
+  background: #ffffff;
+  padding: 1em
 }
 
 
+* {
+    box-sizing: border-box;
+}
+
+
+/* Create four equal columns that floats next to each other */
+.column4 {
+    float: left;
+    width: 25%;
+    padding: 3px;
+    
+}
+
+.column18 {
+    float: left;
+    width: 19%;
+    padding: 3px;
+    
+}
+
+.column33 {
+    float: left;
+    width: 32%;
+    padding: 3px;
+    
+}
+
+/* Clear floats after the columns */
+.row4:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media (max-width: 600px) {
+    .column {
+        width: 100%;
+    }
+}
 
 .page_header {
   font-family: 'Poppins', sans-serif;
@@ -4501,3 +4562,14 @@ input.usa-input-medium {
 .footer_link {color: #ffffff;}
 
 
+.hero_style {
+  font-family: 'Poppins', sans-serif;
+  COLOR: #FFFFFF;
+  font-size: 22px;  
+}
+
+.hero_sub_style {
+  font-family: 'Poppins', sans-serif;
+  COLOR: #FFFFFF;
+  font-size: 16px;  
+}
