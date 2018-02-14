@@ -61,7 +61,7 @@ forms:
   heading: Sign up to receive updates from our team
   url: https://docs.google.com/forms/d/1Tsdm_2spbxWnmTFMrH5eHxpOAN9W4LB3eaMMXJ1N0rU/formResponse
   button: Subscribe
-  privacypolicy: Your privacy and security are important to us, we'll only share your information as described in the <a href="http://www.gsa.gov/portal/content/116609">GSA Privacy and Security Notice</a>
+  privacypolicy: 
   fields:
     - type: email
       name: entry.1440502332
@@ -72,21 +72,21 @@ forms:
 
 footer:
   links:
-      - text: 'Work'
-        href: '#'
-      - text: 'About'
-        href: '#'
-  image: /assets/img/gsa-logo-dark.jpg
+      - text: 
+        href: 
+      - text: 
+        href: 
+        image: 
   contact:
-    name: GSA
-    phonenumber: 1-800-CALL-GOV
-    email: gsa@gsa.gov
+    name: 
+    phonenumber: 
+    email: 
     twitter:
       - 18f
-    facebook: 18f
-    youtube: 18f
-    rss: 18f
-  text: This site was built using <a href="https://federalist.18f.gov/" target="_blank">Federalist, from 18F</a>.
+    facebook: 
+    youtube: 
+    rss: 
+  text: 
  # Change to a tag line for your agency
 
 # Build settings
