@@ -4,11 +4,11 @@ title: Connect with the Council
 description: A new letter increases farmers' access to credit by 22%.
 permalink: /projects/microloans-for-farmers/
 tags: project
-Link1: federal-privacy-council/council-members/
+Link1: ./
 Link1Text: Privacy Leadership
-Link2: https://www.fpc.gov/federal-privacy-council/#organization
+Link2: ./
 Link2Text: Council Organization
-Link3: https://www.fpc.gov/federal-privacy-council/#councils
+Link3: ./
 Link3Text: Partners in Privacy
 image: /assets/img/project-images/microloans-for-farmers.jpg
 image-credit: https://www.flickr.com/photos/usdagov
