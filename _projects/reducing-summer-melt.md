@@ -3,11 +3,11 @@ layout: project
 title: About Federal Privacy
 description: Eight personalized text messages to low-income students resulted in a nearly 9% increase in college enrollment.
 permalink: /projects/reducing-summer-melt/
-Link1: https://www.fpc.gov/law-library/
+Link1: ./
 Link1Text: Browse the Law Library
-Link2: https://www.fpc.gov/federal-privacy-council/#organization
+Link2: ./
 Link2Text: Privacy Act of 1974
-Link3: https://www.fpc.gov/resources/office-of-management-and-budget/
+Link3: ./
 Link3Text: Guidance for Data Driven Government
 tags: project
 image: /assets/img/project-images/summer-melt.jpg
