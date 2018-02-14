@@ -1,20 +1,20 @@
 assigned:
     -
         text: Federal Privacy Council
-        href: pages/home.md
-        permalink: /
+        href: pages/federal-privacy-council.md
+        permalink: /federal-privacy-council
         show_in_menu: true
         show_in_footer: false
     -
         text: Law
-        href: pages/about.md
-        permalink: /about/
+        href: pages/law-library.md
+        permalink: /law-library/
         show_in_menu: true
         show_in_footer: false
     -
         text: Resources
-        href: pages/projects.md
-        permalink: /projects/
+        href: pages/resources.md
+        permalink: /resources/
         show_in_menu: true
         show_in_footer: false
         children:
@@ -30,13 +30,14 @@ assigned:
                 show_in_footer: false
     -
         text: 'Implementation'
-        href: pages/team.md
-        permalink: /team/
+        href: pages/implementation.md
+        permalink: /implementation-innovation/
         show_in_menu: true
         show_in_footer: false
     -
         text: 'Agencies'
-        href: _data/projects.yml
+        href: pages/federal-agencies.md
+        permalink: /federal-agencies/
         show_in_menu: true
         show_in_footer: false
     -
