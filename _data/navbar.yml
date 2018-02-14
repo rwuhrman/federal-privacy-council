@@ -42,7 +42,7 @@ assigned:
     -
         text: 'Careers'
         href: _data/projects.yml
-        show_in_menu: no
+        show_in_menu: false
         show_in_footer: false
 
 
