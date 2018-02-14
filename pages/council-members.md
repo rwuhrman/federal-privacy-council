@@ -3,7 +3,7 @@ layout: council-members
 body-class: home
 permalink: /federal-privacy-council/council-members/
 background-image: /assets/img/fpc-conference.jpg
-hero-text: 
+hero-text: Council Members
 hero-byline:
 hero-button-text: 
 hero-button-link: 
