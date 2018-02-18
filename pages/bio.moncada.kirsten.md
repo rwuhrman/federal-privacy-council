@@ -2,7 +2,10 @@
 layout: bio
 body-class: home
 title: Kirsten Moncada
-permalink: /federal-privacy-council/council-members/moncada.kirsten/
+bio-name-text: Kirsten Moncada
+bio-agency-text: Office of Information and Regulatory Affairs
+bio-image-url: /assets/img/bio.moncada.kirsten.png
+permalink: /moncada.kirsten/
 background-image: /assets/img/fpc-conference.jpg
 hero-text: Council Members - Kirsten Moncada
 hero-byline:
