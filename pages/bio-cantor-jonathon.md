@@ -27,7 +27,7 @@ impacts.
 
 Mr. Cantor joined DHS as Deputy Chief Privacy Officer on July 1, 2012. He is 
 a member of the Senior Executive Service, with nearly 20 years of experience in 
-privacy, transparency, and information access.</P>
+privacy, transparency, and information access.
 
 Mr. Cantor previously served as the Chief Privacy Officer of the Department 
 of Commerce, and the senior privacy official at the Social Security 
