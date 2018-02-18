@@ -6,16 +6,15 @@ layout: base
   <div class="standard-unit" style="background-image: url('{{ page.background-image | prepend: site.baseurl }}'); height: 200px;">
    <BR><BR>
     <section class="usa-grid usa-section">
-     <font style="font-family: 'Poppins', sans-serif; COLOR: #FFFFFF; font-size: 42px; align: left;">Leadership</font>
      <div>
         {% if page.bio-name-text %}
-          <font class="page_header">{{ page.bio-name-text }}</font><BR>
+          <font class="page_banner_header">{{ page.bio-name-text }}</font><BR>
        {% endif %} 
         {% if page.bio-title-text %}
-         <font class="page_sub_header" style="align: left;">{{ page.bio-title-text }}</font><BR>
+         <font class="page_sub_banner_header" style="align: left;">{{ page.bio-title-text }}</font><BR>
        {% endif %} 
        {% if page.bio-agency-text %}
-          <font class="page_sub_header" style="align: left;">{{ page.bio-agency-text }}</font>
+          <font class="page_sub_banner_header" style="align: left;">{{ page.bio-agency-text }}</font>
       {% endif %}   
       </div> 
     </section>
