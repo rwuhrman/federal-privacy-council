@@ -5,7 +5,7 @@ title: Kirsten Moncada
 bio-name-text: Kirsten Moncada
 bio-agency-text: Office of Information and Regulatory Affairs
 bio-image-url: /assets/img/bio.moncada.kirsten.png
-permalink: /moncada.kirsten/
+permalink: /bio-moncada-kirsten/
 background-image: /assets/img/fpc-conference.jpg
 hero-text: Council Members - Kirsten Moncada
 hero-byline:
