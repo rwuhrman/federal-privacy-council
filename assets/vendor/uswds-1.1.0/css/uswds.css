@@ -4520,15 +4520,15 @@ input.usa-input-medium {
     }
 }
 
-.page_header {
+.page_banner_header {
   font-family: 'Poppins', sans-serif;
-  COLOR: #515151; 
+  COLOR: #FFFFFF; 
   font-size: 42px; align: left;
 }
 
-.page_sub_header {
+.page_sub_banner_header {
   font-family: 'Poppins', sans-serif;
-  COLOR: #515151; 
+  COLOR: #FFFFFF; 
   font-size: 24px; align: left;
 }
 
