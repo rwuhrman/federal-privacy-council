@@ -4,8 +4,10 @@ layout: base
 
 <section >
   <div class="standard-unit" style="background-image: url('{{ page.background-image | prepend: site.baseurl }}'); height: 200px;">
+   <BR><BR>
     <section class="usa-grid usa-section">
-        <div  style="position: absolute; bottom: 0;">
+     <font style="font-family: 'Poppins', sans-serif; COLOR: #FFFFFF; font-size: 42px; align: left;">Leadership</font>
+     <div  style="position: absolute; bottom: 0;">
         {% if page.bio-name-text %}
           <font class="page_header">{{ page.bio-name-text }}</font><BR>
        {% endif %} 
@@ -15,10 +17,11 @@ layout: base
        {% if page.bio-agency-text %}
           <font class="page_sub_header" style="align: left;">{{ page.bio-agency-text }}</font>
       {% endif %}   
-      </div>
-      </section>    
+      </div> 
+    </section>
   </div>
 </section>
+
 
 <section class="usa-grid usa-section">
    <div class="tbtable">
@@ -70,5 +73,5 @@ layout: base
 {% endif %}
     
     <BR>
-
+ {% include quick.links.html %}
   
