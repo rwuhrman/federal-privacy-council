@@ -4548,6 +4548,17 @@ input.usa-input-medium {
 }
 
 
+.sub_name_font {
+ font-family: 'Poppins', sans-serif; 
+ COLOR: #3086CC; 
+ font-size: 16px; 
+ align: left;  
+}
+
+
+
+
+
 .icon_caption {
  font-family: 'Poppins', sans-serif; 
  COLOR: #0071bc; 
