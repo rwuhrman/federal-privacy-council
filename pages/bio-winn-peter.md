@@ -3,7 +3,7 @@ layout: bio
 body-class: home
 title: Peter Winn
 bio-name-text: Peter Winn
-bio-agency-text: 
+bio-agency-text: Department of Justice
 bio-image-url: /assets/img/bio.winn.peter.png
 permalink: /bio-winn-peter/
 background-image: /assets/img/fpc-conference.jpg
