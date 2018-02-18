@@ -25,7 +25,8 @@ the privacy provisions of the Paperwork Reduction Act of 1995, the E-Government
 Act of 2002, and the Federal Information Security Modernization Act.  She also 
 is responsible for directing the review of privacy aspects of agency regulations 
 and coordinating agency and OMB positions on privacy and related information 
-policy issues.<p></p>
+policy issues.
+
 Ms. Moncada first joined OMB on a detail assignment to work with OMB’s Senior 
 Advisor for Privacy.  Prior to joining OMB, Ms. Moncada served as the Executive 
 Director for Privacy and Disclosure at the Social Security Administration (SSA), 
@@ -40,4 +41,5 @@ editor of DOJ’s “Overview of the Privacy Act of 1974,” handled cases and
 provided advice in Privacy Act and Freedom of Information Act litigation, 
 conducted governmentwide privacy training initiatives, and provided legal advice 
 on a wide variety of disclosure and privacy matters.
+
 
