@@ -4555,6 +4555,12 @@ input.usa-input-medium {
  align: left;  
 }
 
+.agency_font {
+ font-family: 'Poppins', sans-serif; 
+ COLOR: #000000; 
+ font-size: 12px; 
+}
+
 
 .icon_caption {
  font-family: 'Poppins', sans-serif; 
