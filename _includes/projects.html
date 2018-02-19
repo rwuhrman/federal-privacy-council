@@ -1,15 +1,15 @@
 <div class="project-container">
 {% for project in site.projects %}
   {% unless project.featured %}
-    <article class="card usa-width-one-third"  style="background-color: #{{ project.project_color }};">
+    <article class="card usa-width-one-third"  style="background-color: #{{ project.project_color }}; height: 200px;">
       
       <div class="card-banner">
         <h3 class="card-description">
           <span style="font-family: arial; font-size: 16px; color: #FFFFFF;"><CENTER>{{ project.title }}</CENTER></span>
         </h3>
-        <p class="card-summary" ><A HREF="{{ project.Link1 }}">{{ project.Link1Text }}</A></p>
-        <p class="card-summary"  ><A HREF="{{ project.Link2 }}">{{ project.Link2Text }}</A></p>
-        <p class="card-summary"><A HREF="{{ project.Link3 }}">{{ project.Link3Text }}</A></p>
+        <p class="card-summary" ><A HREF="{{ project.Link1 }}" style="color: #FFFFFF;">{{ project.Link1Text }}</A></p>
+        <p class="card-summary" ><A HREF="{{ project.Link2 }}" style="color: #FFFFFF;">{{ project.Link2Text }}</A></p>
+        <p class="card-summary"><A HREF="{{ project.Link3 }}"  style="color: #FFFFFF;">{{ project.Link3Text }}</A></p>
       </div>
 <!--
       <a class="card-read" href="{{ project.url | prepend: site.baseurl }}">
