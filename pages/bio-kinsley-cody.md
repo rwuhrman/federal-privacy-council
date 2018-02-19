@@ -1,13 +1,13 @@
 ---
 layout: bio
 body-class: home
-title: Cody Kinsley
-bio-name-text: Cody Kinsley
+title: Kody Kinsley
+bio-name-text: Kody Kinsley
 bio-agency-text: Department of Treasury
-bio-image-url: /assets/img/bio.kinsley.cody.png
-permalink: /bio-kinsley-cody/
+bio-image-url: /assets/img/bio.kinsley.kody.png
+permalink: /bio-kinsley-kody/
 background-image: /assets/img/fpc-conference.jpg
-hero-text: Council Members - Cody Kinsley
+hero-text: Council Members - Kody Kinsley
 hero-byline:
 hero-button-text: 
 hero-button-link: 
