@@ -1,6 +1,6 @@
 ---
 layout: privacy
-title: Privacy
+title: Protecting Privacy and Security
 permalink: /privacy/
 image: /assets/img/about.jpg
 ---
