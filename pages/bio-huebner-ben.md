@@ -5,7 +5,7 @@ title: Ben Huebner
 bio-name-text: Ben Huebner
 bio-agency-text: Central Intelligence Agency
 bio-image-url: /assets/img/bio.huebner.ben.png
-permalink: /bio-winn-peter/
+permalink: /bio-huebner-ben/
 background-image: /assets/img/fpc-conference.jpg
 hero-text: Council Members - Ben Huebner
 hero-byline:
