@@ -1,9 +1,9 @@
 <div class="project-container">
 {% for project in site.projects %}
   {% unless project.featured %}
-    <article class="card usa-width-one-third">
+    <article class="card usa-width-one-third"  style="background-color: #{{ project.project_color }};">
       
-      <div class="card-banner" style="background-color: #{{ project.project_color }};">
+      <div class="card-banner">
         <h3 class="card-description">
           <span style="font-family: arial; font-size: 14px;"><CENTER>{{ project.title }}</CENTER></span>
         </h3>
