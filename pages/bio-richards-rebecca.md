@@ -26,4 +26,4 @@ in business administration from George Washington University. She received her
 B.A. from the University of Massachusetts, Amherst. Ms. Richards also holds 
 certifications from the International Association of Privacy Professionals and 
 is a member of their Certification Advisory Board. She was also a contributor to 
-"Building a Privacy Program: A Practitioner's Guide."
+"Building a Privacy Program: A Practitioner's Guide." 
