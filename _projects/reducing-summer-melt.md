@@ -3,6 +3,7 @@ layout: project
 title: About Federal Privacy
 description: Eight personalized text messages to low-income students resulted in a nearly 9% increase in college enrollment.
 permalink: /projects/reducing-summer-melt/
+project_color: #FF522D
 Link1: ./
 Link1Text: Browse the Law Library
 Link2: ./
