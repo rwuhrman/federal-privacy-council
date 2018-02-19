@@ -1,13 +1,13 @@
 ---
 layout: bio
 body-class: home
-title: Naomi Lefkowitz
-bio-name-text: Naomi Lefkowitz
+title: Naomi Lefkovitz
+bio-name-text: Naomi Lefkovitz
 bio-agency-text: National Institutes of Standards and Technology
-bio-image-url: /assets/img/bio.lefkowitz.naomi.png
-permalink: /bio-lefkowitz-naomi/
+bio-image-url: /assets/img/bio.lefkovitz.naomi.png
+permalink: /bio-lefkovitz-naomi/
 background-image: /assets/img/fpc-conference.jpg
-hero-text: Council Members - Naomi Lefkowitz
+hero-text: Council Members - Naomi Lefkovitz
 hero-byline:
 hero-button-text: 
 hero-button-link: 
