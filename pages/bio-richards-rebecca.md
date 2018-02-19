@@ -5,7 +5,7 @@ title: Rebecca Richards
 bio-name-text: Rebecca Richards
 bio-agency-text: National Security Agency
 bio-image-url: /assets/img/bio.richards.rebecca.png
-permalink: /bio-richards.rebecca/
+permalink: /bio-richards-rebecca/
 background-image: /assets/img/fpc-conference.jpg
 hero-text: Council Members - Rebecca Richards
 hero-byline:
