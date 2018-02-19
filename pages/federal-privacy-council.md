@@ -1,7 +1,7 @@
 ---
 layout: federal-privacy-council
 body-class: home
-permalink: /federal-privacy-council2/
+permalink: /federal-privacy-council/
 background-image: /assets/img/fpc.council.png
 hero-text: Federal Privacy Council
 hero-byline:
