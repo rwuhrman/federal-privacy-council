@@ -2,7 +2,7 @@
 layout: federal-privacy-council
 body-class: home
 permalink: /federal-privacy-council2/
-background-image: https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1141/2016/12/fpc-meeting-13.jpg
+background-image: /assets/img/fpc.council.png
 hero-text: Federal Privacy Council
 hero-byline:
 hero-button-text: 
