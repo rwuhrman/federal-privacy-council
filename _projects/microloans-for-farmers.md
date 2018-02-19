@@ -9,7 +9,7 @@ Link1: /federal-privacy-council/council-members/
 Link1Text: Privacy Leadership
 Link2: ./federal-privacy-council/#organization
 Link2Text: Council Organization
-Link3: ./
+Link3: ./federal-privacy-council/#other_councils
 Link3Text: Partners in Privacy
 image: /assets/img/project-images/microloans-for-farmers.jpg
 image-credit: https://www.flickr.com/photos/usdagov
