@@ -5,7 +5,7 @@ title: Kathleen Styles
 bio-name-text: Kathleen Styles
 bio-agency-text: Department of Education
 bio-image-url: /assets/img/bio.styles.kathleen.png
-permalink: /bio-winn-peter/
+permalink: /bio-styles-kathleen/
 background-image: /assets/img/fpc-conference.jpg
 hero-text: Council Members - Kathleen Styles
 hero-byline:
