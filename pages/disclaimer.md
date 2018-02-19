@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: centered
 title: Disclaimer
 permalink: /disclaimer/
 image:
@@ -10,4 +10,4 @@ In addition, the Federal Privacy Council does not endorse or recommend any comme
 
 The Federal Privacy Council does not have authority to provide legal advice, set policies for the Federal Government, or represent the views of the Federal Government or the views of any agency within the Federal Government; accordingly, the information on this website in no way constitutes policy or legal advice, nor does it in any way reflect Federal Government views or opinions.  Agencies shall consult law, regulation, and policy, including Office of Management and Budget guidance, to understand applicable requirements.
 
-Updated 11/4/2016
+Updated 11/5/2016
