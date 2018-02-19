@@ -7,7 +7,7 @@ tags: project
 project_color: 3086CC
 Link1: /federal-privacy-council/council-members/
 Link1Text: Privacy Leadership
-Link2: ./
+Link2: ./federal-privacy-council/#organization
 Link2Text: Council Organization
 Link3: ./
 Link3Text: Partners in Privacy
