@@ -3,7 +3,7 @@ layout: bio
 body-class: home
 title: Clinton White
 bio-name-text: Clinton White
-bio-agency-text: USAID
+bio-agency-text: United States Agency for International Development
 bio-image-url: /assets/img/bio.white.clinton.png
 permalink: /bio-white-clinton/
 background-image: /assets/img/fpc-conference.jpg
