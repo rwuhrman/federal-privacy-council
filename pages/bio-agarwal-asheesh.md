@@ -5,7 +5,7 @@ title: Asheesh Agarwal
 bio-name-text: Asheesh Agarwal
 bio-agency-text: Social Security Administration
 bio-image-url: /assets/img/bio.agarwal.asheesh.png
-permalink: /bio-asheesh-agarwal/
+permalink: /bio-agarwal-asheesh/
 background-image: /assets/img/fpc-conference.jpg
 hero-text: Council Members - Asheesh Agarwal
 hero-byline:
