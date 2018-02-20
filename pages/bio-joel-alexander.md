@@ -5,7 +5,7 @@ title: Alexander Joel
 bio-name-text: Alexander Joel
 bio-agency-text: Office of the Director of National Intelligence
 bio-image-url: /assets/img/bio.joel.alexander.png
-permalink: /bio-alexander-joel/
+permalink: /bio-joel-alexander/
 background-image: /assets/img/fpc-conference.jpg
 hero-text: Council Members - Joel Alexander
 hero-byline:
