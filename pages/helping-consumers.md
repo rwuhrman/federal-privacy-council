@@ -1,7 +1,7 @@
 ---
 layout: helping-consumers
 body-class: home
-permalink: /helping-consumers/
+permalink: /resources/helping-consumers/
 background-image: /assets/img/law-library.jpg
 hero-text: Helping Consumers
 hero-byline:
