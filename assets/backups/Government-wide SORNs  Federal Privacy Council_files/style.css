@@ -1,0 +1,1317 @@
+html {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+body {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+div {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+span {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+applet {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+object {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+iframe {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+h1 {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+h2 {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+h3 {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+h4 {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+h5 {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+h6 {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+p {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+blockquote {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+pre {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+a {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+abbr {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+acronym {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+address {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+big {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+cite {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+code {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+del {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+dfn {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+em {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+img {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+ins {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+kbd {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+q {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+s {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+samp {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+small {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+strike {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+strong {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+sub {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+sup {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+tt {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+var {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+b {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+u {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+i {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+center {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+dl {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+dt {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+dd {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+ol {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+ul {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+li {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+fieldset {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+form {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+label {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+legend {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+table {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+caption {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+tbody {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+tfoot {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+thead {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+tr {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+th {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+td {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+article {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+aside {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+canvas {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+details {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+embed {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+figure {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+figcaption {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+footer {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+header {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+hgroup {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+menu {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+nav {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+output {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+ruby {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+section {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+summary {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+time {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+mark {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+audio {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+video {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+article {
+	display: block;
+}
+aside {
+	display: block;
+}
+details {
+	display: block;
+}
+figcaption {
+	display: block;
+}
+figure {
+	display: block;
+}
+footer {
+	display: block;
+}
+header {
+	display: block;
+}
+hgroup {
+	display: block;
+}
+menu {
+	display: block;
+}
+nav {
+	display: block;
+}
+section {
+	display: block;
+}
+body {
+	color: rgb(102, 102, 102); line-height: 1.6; font-family: "Raleway", sans-serif; font-size: 14px; position: relative;
+}
+ol {
+	list-style: none;
+}
+ul {
+	list-style: none;
+}
+blockquote {
+	quotes: none;
+}
+q {
+	quotes: none;
+}
+blockquote::before {
+	content: none;
+}
+blockquote::after {
+	content: none;
+}
+q::before {
+	content: none;
+}
+q::after {
+	content: none;
+}
+table {
+	border-collapse: collapse; border-spacing: 0;
+}
+a {
+	color: rgb(102, 102, 102); text-decoration: underline;
+}
+a:hover {
+	color: rgb(78, 170, 222);
+}
+b {
+	font-weight: 600;
+}
+strong {
+	font-weight: 600;
+}
+em {
+	font-style: italic;
+}
+blockquote {
+	margin: 0px 0px 20px; padding: 10px 20px; border-left-color: rgb(238, 238, 238); border-left-width: 5px; border-left-style: solid;
+}
+h1 {
+	margin-top: 10px; margin-bottom: 10px;
+}
+h2 {
+	margin-top: 10px; margin-bottom: 10px;
+}
+h3 {
+	margin-top: 10px; margin-bottom: 10px;
+}
+h4 {
+	margin-top: 10px; margin-bottom: 10px;
+}
+h5 {
+	margin-top: 10px; margin-bottom: 10px;
+}
+h6 {
+	margin-top: 10px; margin-bottom: 10px;
+}
+h1.inc-margin {
+	margin-top: 20px; margin-bottom: 20px;
+}
+h2.inc-margin {
+	margin-top: 20px; margin-bottom: 20px;
+}
+h3.inc-margin {
+	margin-top: 20px; margin-bottom: 20px;
+}
+h4.inc-margin {
+	margin-top: 20px; margin-bottom: 20px;
+}
+h5.inc-margin {
+	margin-top: 20px; margin-bottom: 20px;
+}
+h6.inc-margin {
+	margin-top: 20px; margin-bottom: 20px;
+}
+h1 {
+	font-size: 36px;
+}
+h2 {
+	font-size: 30px;
+}
+h3 {
+	font-size: 22px;
+}
+h4 {
+	text-transform: uppercase; font-size: 18px;
+}
+h5 {
+	font-size: 16px;
+}
+h6 {
+	font-size: 14px; margin-bottom: 0px;
+}
+p {
+	margin: 0px 0px 10px;
+}
+.full-width {
+	width: 100%;
+}
+.box {
+	margin: 0px auto; width: 1170px; max-width: 100%; background-color: rgb(255, 255, 255);
+}
+@media all and (min-width:768px)
+{
+.full-width .fw-container {
+	width: 750px;
+}
+}
+@media all and (min-width:992px)
+{
+.full-width .fw-container {
+	width: 970px;
+}
+}
+@media all and (min-width:1200px)
+{
+.full-width .fw-container {
+	width: 1170px;
+}
+}
+#page {
+	min-height: 100%;
+}
+.main-content::after {
+	clear: both; display: block; content: "";
+}
+.content-area {
+	width: 100%;
+}
+article.fw-portfolio {
+	margin-top: 20px; margin-bottom: 20px;
+}
+.post {
+	margin-top: 20px; margin-bottom: 20px;
+}
+.left.withsidebar {
+	padding-left: 280px; float: right;
+}
+.right.withsidebar {
+	padding-right: 280px; float: left;
+}
+.sidebar {
+	width: 260px; background-color: rgb(255, 255, 255);
+}
+.left.sidebar {
+	margin-right: -280px; float: left;
+}
+.right.sidebar {
+	margin-left: -280px; float: right;
+}
+aside {
+	margin: 50px 0px 0px; padding: 0px 10px;
+}
+@media all and (max-width:992px)
+{
+.sidebar aside {
+	margin: 10px; vertical-align: top; display: inline-block; min-width: 25%;
+}
+}
+@media all and (max-width:768px)
+{
+.sidebar aside {
+	padding: 0px 20px 30px; display: block;
+}
+}
+@media all and (max-width:992px)
+{
+.left.withsidebar {
+	padding: 0px; float: none;
+}
+.right.withsidebar {
+	padding: 0px; float: none;
+}
+.left.sidebar {
+	margin: 0px; width: 100%; float: none;
+}
+.right.sidebar {
+	margin: 0px; width: 100%; float: none;
+}
+}
+.dark-blue {
+	color: rgb(54, 63, 72);
+}
+.gray.section {
+	border-top-color: rgb(229, 229, 229); border-bottom-color: rgb(229, 229, 229); border-top-width: 1px; border-bottom-width: 1px; border-top-style: solid; border-bottom-style: solid; background-color: rgb(241, 241, 241);
+}
+.dark.section {
+	color: rgb(164, 172, 181); background-color: rgb(54, 63, 72);
+}
+.dark.section h1 {
+	color: rgb(255, 255, 255);
+}
+.dark.section h2 {
+	color: rgb(255, 255, 255);
+}
+.dark.section h3 {
+	color: rgb(255, 255, 255);
+}
+.dark.section h4 {
+	color: rgb(255, 255, 255);
+}
+.dark.section h5 {
+	color: rgb(255, 255, 255);
+}
+.dark.section h6 {
+	color: rgb(255, 255, 255);
+}
+.top-bar {
+	background: rgb(54, 63, 72); padding: 10px 0px; color: rgb(164, 172, 181); font-family: Arial, Helvetica, sans-serif;
+}
+.top-bar .contacts {
+	text-align: left;
+}
+.top-bar .social {
+	text-align: right;
+}
+.top-bar .social .item {
+	margin: 0px 5px; color: rgb(164, 172, 181); text-transform: uppercase; font-size: 11px; text-decoration: none; vertical-align: middle; display: inline-block;
+}
+.top-bar .contacts .item {
+	margin: 0px 5px; color: rgb(164, 172, 181); text-transform: uppercase; font-size: 11px; text-decoration: none; vertical-align: middle; display: inline-block;
+}
+.top-bar a {
+	color: rgb(164, 172, 181); text-decoration: none;
+}
+.top-bar .contacts .fa {
+	margin: 0px 5px;
+}
+.top-bar .contacts :first-child.item {
+	margin-left: 0px;
+}
+.top-bar .social :last-child.item {
+	margin-right: 0px;
+}
+.top-bar-menu {
+	text-align: center; font-size: 11px; margin-top: 3px;
+}
+.top-bar-menu .menu-item {
+	margin: 0px 10px; display: inline-block;
+}
+.top-bar-menu a {
+	color: rgb(164, 172, 181); text-decoration: none;
+}
+@media all and (max-width:992px)
+{
+.top-bar .col {
+	padding: 5px 0px; text-align: center;
+}
+}
+.header {
+	
+}
+.container.header-container {
+	display: table; position: relative;
+}
+.header-container .logo {
+	padding: 20px 0px; text-align: left; vertical-align: middle; display: table-cell;
+}
+.header-container .primary-navigation {
+	text-align: right; vertical-align: middle; display: table-cell; position: relative;
+}
+.isMobile {
+	display: none;
+}
+.nav-menu {
+	margin: 0px; padding: 0px; vertical-align: middle; display: inline-block; min-width: 200px;
+}
+.nav-menu li {
+	display: inline-block; position: relative;
+}
+.nav-menu > li {
+	visibility: hidden;
+}
+.nav-menu li a {
+	padding: 0px 15px; font-size: 13px; font-weight: 500; text-decoration: none; display: block;
+}
+.nav-menu li a:hover {
+	color: rgb(78, 170, 222);
+}
+.nav-menu .sub-menu {
+	background: rgb(255, 255, 255); border-radius: 0px 0px 3px 3px; top: 100%; border-top-color: rgb(78, 170, 222); border-bottom-color: rgb(229, 229, 229); border-top-width: 3px; border-bottom-width: 3px; border-top-style: solid; border-bottom-style: solid; display: none; position: absolute; z-index: 50; min-width: 190px;
+}
+.nav-menu .sub-menu li a {
+	padding: 12px 12px 12px 28px; text-align: left; color: rgb(102, 102, 102) !important; border-bottom-color: rgb(229, 229, 229); border-bottom-width: 1px; border-bottom-style: solid; display: block; position: relative; min-width: 190px;
+}
+.nav-menu .sub-menu li a:not(.fa)::before {
+	border-width: 4px 0px 4px 4px; border-style: solid; border-color: transparent transparent transparent rgb(164, 172, 181); left: 15px; top: 50%; width: 0px; height: 0px; display: block; position: absolute; content: ""; transform: translateY(-50%); background-color: rgb(255, 255, 255);
+}
+.nav-menu .sub-menu li a.fa::before {
+	left: 7px; top: 50%; display: block; position: absolute; transform: translateY(-50%);
+}
+.nav-menu .sub-menu li a:hover::before {
+	border-color: transparent transparent transparent rgb(78, 170, 222);
+}
+.nav-menu .sub-menu li:last-child a {
+	border-bottom-color: currentColor; border-bottom-width: medium; border-bottom-style: none;
+}
+.nav-menu .sub-menu li a.button::before {
+	display: none;
+}
+.nav-menu .sub-menu li a.button::after {
+	display: none;
+}
+.nav-menu .sub-menu li a:hover {
+	background-color: rgb(243, 243, 243);
+}
+.menu-item-has-icon .fa::before {
+	font-family: "FontAwesome"; margin-right: 8px;
+}
+.nav-menu-toggle {
+	float: right;
+}
+.nav-menu-hiddens {
+	list-style: none; margin: 0px; padding: 0px; top: 100%; right: 0px; border-top-color: rgb(78, 170, 222); border-top-width: 3px; border-top-style: solid; display: none; position: absolute; z-index: 9999; box-shadow: 0px 0px 2px rgba(0,0,0,0.1); background-color: rgb(255, 255, 255);
+}
+.nav-menu-hiddens li {
+	margin: 0px; padding: 0px;
+}
+.nav-menu-hiddens a {
+	padding: 12px; text-align: right; color: rgb(102, 102, 102) !important; line-height: 1 !important; font-size: 13px; font-weight: 500; text-decoration: none; border-bottom-color: rgb(229, 229, 229); border-bottom-width: 1px; border-bottom-style: solid; display: block; min-width: 190px;
+}
+.menu-item a.button {
+	line-height: 1 !important;
+}
+.menu-item a.button:active {
+	margin: 5px; padding: 10px 12px; box-shadow: inset 0px -3px 0px rgba(0,0,0,0.3);
+}
+.menu-item a.button:focus {
+	margin: 5px; padding: 10px 12px; box-shadow: inset 0px -3px 0px rgba(0,0,0,0.3);
+}
+.menu-button {
+	top: 50%; font-size: 20px; display: none; position: absolute; transform: translateY(-50%);
+}
+.nav-menu-mobile {
+	margin: 0px; padding: 0px 40px; left: -100%; top: 20px; display: none; position: absolute; z-index: 9999; box-shadow: 0px 3px 3px 3px rgba(0,0,0,0.3); background-color: rgb(255, 255, 255);
+}
+.nav-menu-mobile li {
+	margin: 10px 0px; display: block; position: relative;
+}
+.nav-menu-mobile li a {
+	padding: 5px 0px; font-size: 16px; font-weight: 500; text-decoration: none;
+}
+.nav-menu-mobile li a:hover {
+	color: rgb(78, 170, 222);
+}
+.nav-menu-mobile .menu-item-has-children > a {
+	position: relative;
+}
+.nav-menu-mobile .menu-item-has-children > a::before {
+	top: 0px; right: -10px; font-family: "FontAwesome"; display: inline-block; position: absolute; content: "\f0dd";
+}
+.nav-menu-mobile .sub-menu {
+	margin: 10px 0px; display: none;
+}
+@media all and (max-width:992px)
+{
+.header-container {
+	width: 100%; display: block;
+}
+.header-container .logo {
+	text-align: left; display: block;
+}
+.header-container .primary-navigation {
+	text-align: left; display: block;
+}
+.isMobile {
+	display: block;
+}
+.nav-menu {
+	display: none;
+}
+.nav-menu-buttons {
+	display: none;
+}
+.nav-menu-buttons li {
+	display: block;
+}
+.menu-button {
+	display: block;
+}
+}
+.footer-sidebar {
+	padding: 30px 0px; background-color: rgb(54, 63, 72);
+}
+.footer-sidebar a {
+	
+}
+.footer-sidebar aside {
+	margin-top: 0px;
+}
+@media all and (max-width:768px)
+{
+.footer-sidebar aside {
+	padding: 0px 20px 30px; display: block;
+}
+}
+@media all and (min-width:992px)
+{
+.footer-sidebar aside {
+	padding: 0px 20px; width: 24.9%; vertical-align: top; float: left; display: block;
+}
+}
+.footer {
+	width: 100%; position: absolute;
+}
+#colophon aside {
+	margin: 10px 0px; width: 50%; vertical-align: top; display: inline-block;
+}
+#colophon aside:first-child {
+	text-align: left;
+}
+#colophon aside:last-child {
+	text-align: right;
+}
+.widget_recent_entries {
+	
+}
+.widget_recent_entries ul {
+	
+}
+.widget_recent_entries li {
+	padding: 10px 10px 10px 30px; display: block; position: relative;
+}
+.widget_recent_antries {
+	margin-top: 10px;
+}
+.widget_recent_entries li::before {
+	left: 0px; font-family: "FontAwesome"; font-size: 16px; display: block; position: absolute; content: "\f0f6";
+}
+.widget_recent_entries a {
+	display: block;
+}
+.widget_recent_entries span {
+	display: block;
+}
+.widget_archive li {
+	padding: 10px 0px 10px 30px; position: relative;
+}
+.widget_archive li:last-child {
+	border-bottom-color: currentColor; border-bottom-width: medium; border-bottom-style: none;
+}
+.widget_archive li::before {
+	left: 10px; top: 50%; font-family: "FontAwesome"; font-size: 16px; display: block; position: absolute; content: "?"; transform: translate(-50%, -50%); -webkit-transform: translate(-50%, -50%);
+}
+.recent-works {
+	margin: 10px 0px; width: 100%;
+}
+.recent-works .item {
+	margin: 0px 10px 10px 0px; transition:0.5s; -webkit-filter: grayscale(1);
+}
+.recent-works .item:hover {
+	-webkit-filter: grayscale(0);
+}
+.wrap-social a.social {
+	margin: 0px 2px; text-decoration: none;
+}
+.widget_calendar {
+	max-width: 240px;
+}
+.widget_calendar a {
+	text-decoration: underline !important;
+}
+.widget_calendar table#wp-calendar {
+	width: 100%;
+}
+.widget_calendar table#wp-calendar #pref {
+	padding-top: 10px;
+}
+.widget_calendar table#wp-calendar #next {
+	padding-top: 10px;
+}
+.site-info {
+	padding: 10px 0px; background-color: rgb(39, 46, 52);
+}
+.site-info .row {
+	display: flex; align-items: center; -webkit-align-items: center;
+}
+.site-info p {
+	padding: 0px; color: rgb(110, 119, 128);
+}
+.site-info a {
+	color: rgb(110, 119, 128);
+}
+.site-info a:hover {
+	color: rgb(78, 170, 222);
+}
+.menu-toggle {
+	margin: 0px auto; padding: 9px 10px; border-radius: 4px; border: 1px solid transparent; border-image: none; text-align: center; background-image: none; background-color: transparent;
+}
+.menu-toggle:hover {
+	background-color: rgb(245, 245, 245);
+}
+.icon-bar {
+	border-radius: 1px; width: 22px; height: 2px; margin-bottom: 5px; display: block; background-color: rgb(102, 102, 102);
+}
+:last-child.icon-bar {
+	margin-bottom: 0px;
+}
+@media all and (max-width:992px)
+{
+.top-bar_info {
+	text-align: center; float: none;
+}
+.top-bar_icons {
+	text-align: center; float: none;
+}
+}
+@media all and (max-width:992px)
+{
+.header {
+	padding: 0px; width: 100%; display: block;
+}
+.header .logo {
+	width: 100%; display: block;
+}
+.header .primary-navigation {
+	width: 100%; display: block;
+}
+.header .logo {
+	width: 100%; text-align: center;
+}
+.header .primary-navigation {
+	width: 100%; text-align: center;
+}
+}
+.alignleft {
+	float: left; display: inline;
+}
+.alignright {
+	float: right; display: inline;
+}
+.aligncenter {
+	margin-right: auto; margin-left: auto; display: block;
+}
+.read-more {
+	margin: 10px 0px 0px; text-align: left; text-transform: uppercase; font-size: 14px; font-weight: 600; text-decoration: none; display: block;
+}
+.archive-title {
+	margin-bottom: 10px;
+}
+.format-aside .thumb {
+	width: 100%; height: auto; max-width: 300px;
+}
+.entry-meta {
+	padding: 10px 0px;
+}
+.format-quote .entry-meta {
+	border-top-color: rgb(229, 229, 229); border-top-width: 1px; border-top-style: solid;
+}
+.format-aside .entry-meta {
+	border-top-color: rgb(229, 229, 229); border-top-width: 1px; border-top-style: solid;
+}
+.format-quote .attachment-avatar {
+	margin: 10px auto 0px; border-radius: 50%; display: block;
+}
+.format-status .attachment-avatar {
+	margin: 10px auto 0px; border-radius: 50%; display: block;
+}
+.format-quote .quote-avatar {
+	float: left;
+}
+.format-quote .quote-avatar {
+	float: left;
+}
+.format-status .status-avatar {
+	float: left;
+}
+.format-status .status-content {
+	float: left;
+}
+.format-quote .quote-avatar {
+	width: 150px; margin-right: -150px;
+}
+.format-status .status-avatar {
+	width: 150px; margin-right: -150px;
+}
+.format-quote .quote-content {
+	padding-left: 150px;
+}
+.format-status .status-content {
+	padding-left: 150px;
+}
+.format-quote .entry-content {
+	font-style: italic;
+}
+.format-link .image-container {
+	width: 200px; float: left;
+}
+.format-link .content-container {
+	width: calc(100% - 200px); float: left;
+}
+.format-link .logo {
+	margin: 10px 0px 0px; display: block;
+}
+.format-link .entry-content a {
+	margin: 10px 0px; padding: 5px 8px; border-radius: 3px; border: 1px solid rgb(229, 229, 229); border-image: none; color: rgb(102, 102, 102); text-decoration: none; display: inline-block;
+}
+.format-image .thumb-container {
+	padding: 0px; width: 100%;
+}
+.format-image .thumb {
+	background-color: rgb(255, 255, 255);
+}
+.format-image .thumb_sh {
+	margin: 10px 0px; padding: 5px; box-shadow: 0px 0px 3px 1px rgba(0,0,0,0.1); background-color: rgb(255, 255, 255);
+}
+.page-thumb {
+	margin: 0px auto; height: auto; display: block; max-width: 100%;
+}
+.fw-portfolio .entry-content {
+	margin: 20px 0px;
+}
+.sticky {
+	border: 1px solid rgb(250, 250, 250); border-image: none;
+}
+.bypostauthor {
+	background: rgb(255, 255, 255);
+}
+.commentlist .bypostauthor {
+	background: rgb(255, 255, 255);
+}
+.page .post-edit-link {
+	margin: 10px 0px; color: rgb(153, 153, 153) !important;
+}
+a.post-edit-link {
+	padding: 3px 8px; border-radius: 3px; border: 1px solid rgba(0, 0, 0, 0.1); border-image: none; color: rgb(153, 153, 153) !important; text-decoration: none; display: inline-block; cursor: pointer; background-color: rgba(0, 0, 0, 0.05);
+}
+a.edit {
+	padding: 3px 8px; border-radius: 3px; border: 1px solid rgba(0, 0, 0, 0.1); border-image: none; color: rgb(153, 153, 153) !important; text-decoration: none; display: inline-block; cursor: pointer; background-color: rgba(0, 0, 0, 0.05);
+}
+a.post-edit-link:hover {
+	color: inherit; text-decoration: none; background-color: rgba(0, 0, 0, 0.08);
+}
+a.edit:hover {
+	color: inherit; text-decoration: none; background-color: rgba(0, 0, 0, 0.08);
+}
+a.post-edit-link:focus {
+	color: inherit; text-decoration: none; background-color: rgba(0, 0, 0, 0.1);
+}
+a.edit:focus {
+	color: inherit; text-decoration: none; background-color: rgba(0, 0, 0, 0.1);
+}
+.entry-title {
+	margin: 0px; padding: 0px;
+}
+.entry-title a {
+	text-decoration: none;
+}
+.entry-meta {
+	color: rgb(165, 164, 164);
+}
+.entry-meta a {
+	color: rgb(165, 164, 164);
+}
+.entry-meta span {
+	margin-right: 5px; display: inline-block;
+}
+.page-header {
+	margin: 0px; padding-bottom: 0px; border-bottom-color: currentColor; border-bottom-width: medium; border-bottom-style: none;
+}
+.post-navigation {
+	padding-bottom: 20px;
+}
+.nav-links::after {
+	clear: both; display: block; content: "";
+}
+.prev.meta-nav {
+	float: left;
+}
+.next.meta-nav {
+	float: right;
+}
+.prev.meta-nav {
+	padding: 0px 10px;
+}
+.next.meta-nav {
+	padding: 0px 10px;
+}
+.archive-header {
+	margin-top: 20px;
+}
+.comment-form .comment-form-author label {
+	display: block;
+}
+.comment-form .comment-form-email label {
+	display: block;
+}
+.comment-form .comment-form-url label {
+	display: block;
+}
+.comment-form .comment-form-comment label {
+	display: block;
+}
+.comment-form .comment-form-comment textarea {
+	width: 100%; height: 100px; resize: vertical;
+}
+.woocommerce #respond input#submit {
+	margin: 5px; padding: 15px 35px 18px; border-radius: 3px; border: 0px solid transparent; border-image: none; top: 0px; text-align: center; color: rgb(255, 255, 255) !important; text-transform: uppercase; line-height: 1; font-size: 14px; font-weight: 600; text-decoration: none; vertical-align: middle; display: inline-block; white-space: nowrap; position: relative; cursor: pointer; min-width: 200px; box-shadow: inset 0px -3px 0px rgba(0,0,0,0.3); -ms-user-select: none; -ms-touch-action: manipulation; touch-action: manipulation; background-image: none; background-color: rgb(78, 170, 222); -webkit-user-select: none; -moz-user-select: none; user-select: none;
+}
+.woocommerce a.button {
+	margin: 5px; padding: 15px 35px 18px; border-radius: 3px; border: 0px solid transparent; border-image: none; top: 0px; text-align: center; color: rgb(255, 255, 255) !important; text-transform: uppercase; line-height: 1; font-size: 14px; font-weight: 600; text-decoration: none; vertical-align: middle; display: inline-block; white-space: nowrap; position: relative; cursor: pointer; min-width: 200px; box-shadow: inset 0px -3px 0px rgba(0,0,0,0.3); -ms-user-select: none; -ms-touch-action: manipulation; touch-action: manipulation; background-image: none; background-color: rgb(78, 170, 222); -webkit-user-select: none; -moz-user-select: none; user-select: none;
+}
+.woocommerce button.button {
+	margin: 5px; padding: 15px 35px 18px; border-radius: 3px; border: 0px solid transparent; border-image: none; top: 0px; text-align: center; color: rgb(255, 255, 255) !important; text-transform: uppercase; line-height: 1; font-size: 14px; font-weight: 600; text-decoration: none; vertical-align: middle; display: inline-block; white-space: nowrap; position: relative; cursor: pointer; min-width: 200px; box-shadow: inset 0px -3px 0px rgba(0,0,0,0.3); -ms-user-select: none; -ms-touch-action: manipulation; touch-action: manipulation; background-image: none; background-color: rgb(78, 170, 222); -webkit-user-select: none; -moz-user-select: none; user-select: none;
+}
+.woocommerce input.button {
+	margin: 5px; padding: 15px 35px 18px; border-radius: 3px; border: 0px solid transparent; border-image: none; top: 0px; text-align: center; color: rgb(255, 255, 255) !important; text-transform: uppercase; line-height: 1; font-size: 14px; font-weight: 600; text-decoration: none; vertical-align: middle; display: inline-block; white-space: nowrap; position: relative; cursor: pointer; min-width: 200px; box-shadow: inset 0px -3px 0px rgba(0,0,0,0.3); -ms-user-select: none; -ms-touch-action: manipulation; touch-action: manipulation; background-image: none; background-color: rgb(78, 170, 222); -webkit-user-select: none; -moz-user-select: none; user-select: none;
+}
+.contact-form input[type=submit] {
+	margin: 5px; padding: 15px 35px 18px; border-radius: 3px; border: 0px solid transparent; border-image: none; top: 0px; text-align: center; color: rgb(255, 255, 255) !important; text-transform: uppercase; line-height: 1; font-size: 14px; font-weight: 600; text-decoration: none; vertical-align: middle; display: inline-block; white-space: nowrap; position: relative; cursor: pointer; min-width: 200px; box-shadow: inset 0px -3px 0px rgba(0,0,0,0.3); -ms-user-select: none; -ms-touch-action: manipulation; touch-action: manipulation; background-image: none; background-color: rgb(78, 170, 222); -webkit-user-select: none; -moz-user-select: none; user-select: none;
+}
+.button {
+	margin: 5px; padding: 15px 35px 18px; border-radius: 3px; border: 0px solid transparent; border-image: none; top: 0px; text-align: center; color: rgb(255, 255, 255) !important; text-transform: uppercase; line-height: 1; font-size: 14px; font-weight: 600; text-decoration: none; vertical-align: middle; display: inline-block; white-space: nowrap; position: relative; cursor: pointer; min-width: 200px; box-shadow: inset 0px -3px 0px rgba(0,0,0,0.3); -ms-user-select: none; -ms-touch-action: manipulation; touch-action: manipulation; background-image: none; background-color: rgb(78, 170, 222); -webkit-user-select: none; -moz-user-select: none; user-select: none;
+}
+.woocommerce #respond input#submit:active {
+	padding: 15px 35px; margin-top: 8px; box-shadow: inset 0px 0px 0px rgba(0,0,0,0.3);
+}
+.woocommerce a.button:active {
+	padding: 15px 35px; margin-top: 8px; box-shadow: inset 0px 0px 0px rgba(0,0,0,0.3);
+}
+.woocommerce button.button:active {
+	padding: 15px 35px; margin-top: 8px; box-shadow: inset 0px 0px 0px rgba(0,0,0,0.3);
+}
+.woocommerce input.button:active {
+	padding: 15px 35px; margin-top: 8px; box-shadow: inset 0px 0px 0px rgba(0,0,0,0.3);
+}
+.contact-form input[type=submit]:active {
+	padding: 15px 35px; margin-top: 8px; box-shadow: inset 0px 0px 0px rgba(0,0,0,0.3);
+}
+.button:active {
+	padding: 15px 35px; margin-top: 8px; box-shadow: inset 0px 0px 0px rgba(0,0,0,0.3);
+}
+.woocommerce #respond input#submit span {
+	display: block;
+}
+.woocommerce a.button span {
+	display: block;
+}
+.woocommerce button.button span {
+	display: block;
+}
+.woocommerce input.button span {
+	display: block;
+}
+.contact-form input[type=submit] {
+	display: block;
+}
+.button span {
+	display: block;
+}
+.woocommerce #respond input#submit:hover {
+	color: rgb(255, 255, 255); text-decoration: none; opacity: 0.85;
+}
+.woocommerce #respond input#submit:focus {
+	color: rgb(255, 255, 255); text-decoration: none; opacity: 0.85;
+}
+.woocommerce a.button:hover {
+	color: rgb(255, 255, 255); text-decoration: none; opacity: 0.85;
+}
+.woocommerce a.button:focus {
+	color: rgb(255, 255, 255); text-decoration: none; opacity: 0.85;
+}
+.woocommerce button.button:hover {
+	color: rgb(255, 255, 255); text-decoration: none; opacity: 0.85;
+}
+.woocommerce button.button:focus {
+	color: rgb(255, 255, 255); text-decoration: none; opacity: 0.85;
+}
+.woocommerce input.button:hover {
+	color: rgb(255, 255, 255); text-decoration: none; opacity: 0.85;
+}
+.woocommerce input.button:focus {
+	color: rgb(255, 255, 255); text-decoration: none; opacity: 0.85;
+}
+.contact-form input[type=submit]:hover {
+	color: rgb(255, 255, 255); text-decoration: none; opacity: 0.85;
+}
+.contact-form input[type=submit]:focus {
+	color: rgb(255, 255, 255); text-decoration: none; opacity: 0.85;
+}
+.button:hover {
+	color: rgb(255, 255, 255); text-decoration: none; opacity: 0.85;
+}
+.button:focus {
+	color: rgb(255, 255, 255); text-decoration: none; opacity: 0.85;
+}
+.button-round.button {
+	border-radius: 23px !important;
+}
+.button-square.button {
+	border-radius: 0px !important;
+}
+.button-disabled.button {
+	padding-bottom: 15px; cursor: not-allowed; pointer-events: none; box-shadow: inset 0px 0px 0px rgba(0,0,0,0);
+}
+.button-inverted.button {
+	border: 1px solid rgb(78, 170, 222); border-image: none; color: rgb(78, 170, 222); padding-bottom: 15px; box-shadow: inset 0px 0px 0px rgba(0,0,0,0); background-color: transparent;
+}
+.button-inverted.button {
+	margin: 5px;
+}
+.button-inverted.button:hover {
+	margin: 5px;
+}
+.button-inverted.button:active {
+	margin: 5px;
+}
+.woocommerce #respond input.button-sm#submit {
+	padding: 10px 12px; border-radius: 3px; line-height: 1; font-size: 12px; min-width: 0px;
+}
+.woocommerce a.button-sm.button {
+	padding: 10px 12px; border-radius: 3px; line-height: 1; font-size: 12px; min-width: 0px;
+}
+.woocommerce button.button-sm.button {
+	padding: 10px 12px; border-radius: 3px; line-height: 1; font-size: 12px; min-width: 0px;
+}
+.woocommerce input.button-sm.button {
+	padding: 10px 12px; border-radius: 3px; line-height: 1; font-size: 12px; min-width: 0px;
+}
+.button-sm.button {
+	padding: 10px 12px; border-radius: 3px; line-height: 1; font-size: 12px; min-width: 0px;
+}
+.woocommerce #respond input.button-sm#submit:active {
+	padding: 10px 12px 7px;
+}
+.woocommerce a.button-sm.button:active {
+	padding: 10px 12px 7px;
+}
+.woocommerce button.button-sm.button:active {
+	padding: 10px 12px 7px;
+}
+.woocommerce input.button-sm.button:active {
+	padding: 10px 12px 7px;
+}
+.button-sm.button:active {
+	padding: 10px 12px 7px;
+}
+.woocommerce #respond input.alt#submit {
+	background-color: rgb(78, 170, 222);
+}
+.woocommerce a.alt.button {
+	background-color: rgb(78, 170, 222);
+}
+.woocommerce button.alt.button {
+	background-color: rgb(78, 170, 222);
+}
+.woocommerce input.alt.button {
+	background-color: rgb(78, 170, 222);
+}
+.woocommerce #respond input.alt#submit:hover {
+	background-color: rgb(78, 170, 222);
+}
+.woocommerce #respond input.alt#submit:active {
+	background-color: rgb(78, 170, 222);
+}
+.woocommerce a.alt.button:hover {
+	background-color: rgb(78, 170, 222);
+}
+.woocommerce a.alt.button:active {
+	background-color: rgb(78, 170, 222);
+}
+.woocommerce button.alt.button:hover {
+	background-color: rgb(78, 170, 222);
+}
+.woocommerce input.alt.button:active {
+	background-color: rgb(78, 170, 222);
+}
+.woocommerce-cart .wc-proceed-to-checkout a.checkout-button {
+	display: inline-block;
+}
+.woocommerce div.product .woocommerce-tabs ul.tabs li::after {
+	width: 0px; height: 0px;
+}
+.woocommerce div.product .woocommerce-tabs ul.tabs li::before {
+	width: 0px; height: 0px;
+}
+.woocommerce div.product .woocommerce-tabs ul.tabs li {
+	border-radius: 3px 3px 0px 0px;
+}
+.fw-col-container {
+	position: static; z-index: 1;
+}
+.contact-form .field-textarea textarea {
+	width: 100%;
+}
+.contact-form .fw-row {
+	margin: 0px !important;
+}
+.contact-form input[type='text'] {
+	border: 1px solid rgb(136, 136, 136); border-image: none;
+}
+textarea {
+	border: 1px solid rgb(136, 136, 136); border-image: none;
+}
+.contact-form input[type='submit'] {
+	margin: 5px 0px;
+}
+.contact-form [class^='fw-col-']:first-child {
+	padding-left: 0px !important;
+}
+.contact-form [class^='fw-col-']:last-child {
+	padding-right: 0px !important;
+}
+.fw-main-row-full .fw-row {
+	margin: 0px !important;
+}
+.fw-main-row-full .fw-col-xs-12 {
+	padding: 0px !important;
+}
+.fw-col-sm-12 {
+	padding: 0px !important;
+}
+.fw-col-md-12 {
+	padding: 0px !important;
+}
+.fw-col-lg-12 {
+	padding: 0px !important;
+}
+.gallery {
+	margin-bottom: 20px;
+}
+.gallery-item {
+	margin: 0px 4px 4px 0px; overflow: hidden; float: left; position: relative;
+}
+.gallery-columns-1 .gallery-item {
+	max-width: 100%;
+}
+.gallery-columns-2 .gallery-item {
+	max-width: calc(50% - 4px);
+}
+.gallery-columns-3 .gallery-item {
+	max-width: calc(33.3% - 4px);
+}
+.gallery-columns-4 .gallery-item {
+	max-width: calc(25% - 4px);
+}
+.gallery-columns-5 .gallery-item {
+	max-width: calc(20% - 4px);
+}
+.gallery-columns-6 .gallery-item {
+	max-width: calc(16.7% - 4px);
+}
+.gallery-columns-7 .gallery-item {
+	max-width: calc(14.28% - 4px);
+}
+.gallery-columns-8 .gallery-item {
+	max-width: calc(12.5% - 4px);
+}
+.gallery-columns-9 .gallery-item {
+	max-width: calc(11.1% - 4px);
+}
+.gallery-columns-1 :nth-of-type(n).gallery-item {
+	margin-right: 0px;
+}
+.gallery-columns-2 :nth-of-type(2n).gallery-item {
+	margin-right: 0px;
+}
+.gallery-columns-3 :nth-of-type(3n).gallery-item {
+	margin-right: 0px;
+}
+.gallery-columns-4 :nth-of-type(4n).gallery-item {
+	margin-right: 0px;
+}
+.gallery-columns-5 :nth-of-type(5n).gallery-item {
+	margin-right: 0px;
+}
+.gallery-columns-6 :nth-of-type(6n).gallery-item {
+	margin-right: 0px;
+}
+.gallery-columns-7 :nth-of-type(7n).gallery-item {
+	margin-right: 0px;
+}
+.gallery-columns-8 :nth-of-type(8n).gallery-item {
+	margin-right: 0px;
+}
+.gallery-columns-9 :nth-of-type(9n).gallery-item {
+	margin-right: 0px;
+}
+.gallery-size-medium.gallery-columns-1 figure:nth-of-type(n+1).gallery-item {
+	clear: left;
+}
+.gallery-size-thumbnail.gallery-columns-1 figure:nth-of-type(n+1).gallery-item {
+	clear: left;
+}
+.gallery-size-thumbnail.gallery-columns-2 figure:nth-of-type(2n+1).gallery-item {
+	clear: left;
+}
+.gallery-size-thumbnail.gallery-columns-3 figure:nth-of-type(3n+1).gallery-item {
+	clear: left;
+}
+.gallery-caption {
+	margin: 0px; padding: 6px 8px; left: 0px; width: 100%; text-align: left; bottom: 0px; color: rgb(255, 255, 255); line-height: 1.5; font-size: 12px; position: absolute; max-height: 50%; box-sizing: border-box; opacity: 0; background-color: rgba(0, 0, 0, 0.7); -webkit-box-sizing: border-box; -moz-box-sizing: border-box;
+}
+.gallery-caption::before {
+	left: 0px; top: 0px; width: 100%; height: 100%; position: absolute; min-height: 49px; content: "";
+}
+.gallery-item:hover .gallery-caption {
+	opacity: 1;
+}
+.gallery-columns-7 .gallery-caption {
+	display: none;
+}
+.gallery-columns-8 .gallery-caption {
+	display: none;
+}
+.gallery-columns-9 .gallery-caption {
+	display: none;
+}
+li.menu-item-has-mega-menu {
+	
+}
+div.mega-menu {
+	background: rgb(255, 255, 255); border-radius: 0px 0px 3px 3px; top: 100%; width: auto; border-top-color: rgb(78, 170, 222); border-bottom-color: rgb(229, 229, 229); border-top-width: 3px; border-bottom-width: 3px; border-top-style: solid; border-bottom-style: solid; display: none; position: absolute; z-index: 50;
+}
+ul.mega-menu-row {
+	border-radius: 0px !important; border: currentColor !important; border-image: none !important; width: 190px; float: left; display: block !important; position: relative !important;
+}
+li.mega-menu-col {
+	
+}
+article ol {
+	list-style: decimal; padding-left: 30px;
+}
+article ul {
+	padding-left: 30px;
+}
+.fw-page-builder-content ul {
+	list-style: none; padding-left: 0px;
+}
+.fw-page-builder-content ol {
+	list-style: none; padding-left: 0px;
+}

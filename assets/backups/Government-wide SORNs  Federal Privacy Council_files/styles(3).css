@@ -1,0 +1,15 @@
+.fw-heading {
+	margin-bottom: 1em;
+}
+.fw-heading h4 {
+	font-weight: bold;
+}
+.fw-heading h5 {
+	font-weight: bold;
+}
+.fw-heading h6 {
+	font-weight: bold;
+}
+.fw-heading-center.fw-heading {
+	text-align: center;
+}
