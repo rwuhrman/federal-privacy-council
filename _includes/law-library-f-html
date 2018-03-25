@@ -15,7 +15,9 @@
     <BR>
     {% include law-library-f-food-and-drug-administration-safety-innovation-act.html %}   
     <BR>
-    {% include law-library-f-forein-intelligence-surveillance-act-1978-and-amendments.html %}   
+    {% include law-library-f-foreign-intelligence-surveillance-act-1978-and-amendments.html %}   
+    <BR>
+    {% include law-library-f-foia.html %}   
     <BR>
     {% include law-library-f-freedom-act.html %}   
     <BR>
