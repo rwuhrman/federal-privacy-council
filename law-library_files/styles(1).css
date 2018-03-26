@@ -1,0 +1,9 @@
+.background-video.fw-main-row .fw-container {
+	z-index: 1;
+}
+.fw-main-row {
+	background-repeat: no-repeat; background-size: cover;
+}
+.fullwidth-section-content {
+	position: relative; z-index: 1;
+}

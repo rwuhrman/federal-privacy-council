@@ -1,0 +1,12 @@
+@font-face {
+	font-family: Raleway;
+	src: local("Raleway"), local("Raleway-Regular"), url(http://fonts.gstatic.com/s/raleway/v12/1Ptug8zYS_SKggPNyC0ISQ.woff) format("woff");
+	font-weight: 400;
+	font-style: normal;
+}
+@font-face {
+	font-family: Raleway;
+	src: local("Raleway Medium"), local("Raleway-Medium"), url(http://fonts.gstatic.com/s/raleway/v12/1Ptrg8zYS_SKggPNwN4rWqZPBg.woff) format("woff");
+	font-weight: 500;
+	font-style: normal;
+}
