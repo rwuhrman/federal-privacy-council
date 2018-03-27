@@ -6,7 +6,7 @@ permalink: /projects/reducing-summer-melt/
 project_color: FF522D
 Link1: ./law-library/
 Link1Text: Browse the Law Library
-Link2: ./law-library#Privacy_Act_of_1974
+Link2: ./law-library#privacy_act_of_1974
 Link2Text: Privacy Act of 1974
 Link3: ./
 Link3Text: 
