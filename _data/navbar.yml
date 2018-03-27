@@ -7,8 +7,8 @@ assigned:
         show_in_footer: false
     -
         text: Law
-        href: ./
-        permalink: ./
+        href: /law-library/
+        permalink: /law-library/
         show_in_menu: true
         show_in_footer: false
     -
