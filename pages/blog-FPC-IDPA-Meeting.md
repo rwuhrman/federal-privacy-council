@@ -1,17 +1,18 @@
 ---
 layout: law-library
 body-class: home
-permalink: /blog-fpc-idpa
+permalink: /blog-fpc-idpa/
 background-image: /assets/img/law-library.jpg
-hero-text: Federal Privacy Council meets with International Data Protection Authorities
+hero-text: 
 hero-byline:
 hero-button-text: 
 hero-button-link: 
 banner-heading: 
 banner-text: 
 banner-button-text: 
-
 ---
+
+Federal Privacy Council meets with International Data Protection Authorities
 
 On Monday, March 26, 2018, the Federal Privacy Council, in coordination with the Privacy Branch of the Office of Information and Regulatory Affairs (OIRA) in the Office of Management and Budget (OMB), hosted a meeting with international Data Protection Authorities.  Over 35 representatives from 16 countries joined Senior Agency Officials for Privacy on the Federal Privacy Council in the Indian Treaty Room of the Eisenhower Executive Office Building.  
 
