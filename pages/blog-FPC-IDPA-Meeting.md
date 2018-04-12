@@ -2,7 +2,7 @@
 layout: bio
 body-class: home
 title: Federal Privacy Council meets with International Data Protection Authorities
-bio-name-text: Federal Privacy Council meets with International Data Protection Authorities
+bio-name-text: 
 bio-agency-text:
 bio-image-url: 
 permalink: /blog-fpc-idpa/
