@@ -9,7 +9,8 @@ a:hover {
 	}
 .cardh {
     	height: 250px;
-   	width: auto;
+   	width: 33.33%;
+        width: calc(100% / 3);
 	margin: 0;
 	padding: 0;
 	float: left;
@@ -24,14 +25,17 @@ a:hover {
 .cardh.act{
 	background-color: #25669C;
 }
-.container {
+.container{
+	width: 100%;	
+	}
+.links {
     padding: 16px 16px;
 }	
 </style>
 
-  <div>
+  <div class="container">
         <div class="cardh connect">
-          <div class="container">
+          <div class="links">
 		  <h2>Connect with Privacy</h2>
 		  <a href="./">Privacy Leadership</a><br>
 		  <a href="./">Council Organization</a><br>
@@ -41,7 +45,7 @@ a:hover {
     </div>  
    
         <div class="cardh about">
-	     <div class="container">
+	     <div class="links">
 		<h2>About Federal Privacy</h2>
 		  <a href="./">Browse Law Library</a><br>
 		  <a href="./">Privacy Act of 1974</a>	<br>	 
@@ -51,7 +55,7 @@ a:hover {
       
 
         <div class="cardh act">
-            <div class="container">
+            <div class="links">
 	  	<h2>Act with Accountability</h2>
 		  <a href="./">FY 2016-2017 Reporting Requirements</a><br>
 		  <a href="./">SAOP Responsiblity</a><br>
