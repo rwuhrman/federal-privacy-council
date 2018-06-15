@@ -2,7 +2,7 @@
 layout: project
 title: United States Agency for International Development
 description: A new letter increases farmers' access to credit by 22%.
-permalink: /projects/microloans-for-farmers/
+permalink: /projects/usaid/
 tags: project
 image: /assets/img/project-images/microloans-for-farmers.jpg
 image-credit: https://www.flickr.com/photos/usdagov
