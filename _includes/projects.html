@@ -7,9 +7,7 @@
         <h3 class="card-description">
           <span style="font-family: "Source Sans Pro";>{{ project.title }}</span>
         </h3>
-        <p class="card-summary" ><A HREF="{{ project.Link1 }}" style="color: #FFFFFF;">{{ project.Link1Text }}</A></p>
-        <p class="card-summary" ><A HREF="{{ project.Link2 }}" style="color: #FFFFFF;">{{ project.Link2Text }}</A></p>
-        <p class="card-summary"><A HREF="{{ project.Link3 }}"  style="color: #FFFFFF;">{{ project.Link3Text }}</A></p>
+        <p class="card-summary" ><A HREF="{{ project.Link1 }}">{{ project.Link1Text }}</A></p>
       </div>
       <a class="card-read" href="{{ project.url | prepend: site.baseurl }}">
         Visit Site
