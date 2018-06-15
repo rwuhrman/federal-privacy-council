@@ -1,22 +1,20 @@
 <div class="project-container">
 {% for project in site.projects %}
   {% unless project.featured %}
-    <article class="card usa-width-one-third"  style="background-color: #{{ project.project_color }}; border-radius: 15px;">
+    <article class="card usa-width-one-third">
       <BR>
       <div class="card-banner">
         <h3 class="card-description">
-          <span style="font-family: arial; font-size: 16px; color: #FFFFFF;"><CENTER>{{ project.title }}</CENTER></span>
+          <span style="font-family: "Source Sans Pro";>{{ project.title }}</span>
         </h3>
         <p class="card-summary" ><A HREF="{{ project.Link1 }}" style="color: #FFFFFF;">{{ project.Link1Text }}</A></p>
         <p class="card-summary" ><A HREF="{{ project.Link2 }}" style="color: #FFFFFF;">{{ project.Link2Text }}</A></p>
         <p class="card-summary"><A HREF="{{ project.Link3 }}"  style="color: #FFFFFF;">{{ project.Link3Text }}</A></p>
       </div>
-<!--
       <a class="card-read" href="{{ project.url | prepend: site.baseurl }}">
-        Read more
+        Visit Site
         <span class="usa-sr-only">about {{ project.title }}</span>
       </a>
--->
 </article>
   {% endunless %}
 {% endfor %}
