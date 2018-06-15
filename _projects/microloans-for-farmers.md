@@ -1,16 +1,9 @@
 ---
 layout: project
-title: Connect with the Council
+title: United States Agency for International Development
 description: A new letter increases farmers' access to credit by 22%.
 permalink: /projects/microloans-for-farmers/
 tags: project
-project_color: 3086CC
-Link1: /federal-privacy-council/council-members/
-Link1Text: Privacy Leadership
-Link2: ./federal-privacy-council/#organization
-Link2Text: Council Organization
-Link3: ./federal-privacy-council/#other_councils
-Link3Text: Partners in Privacy
 image: /assets/img/project-images/microloans-for-farmers.jpg
 image-credit: https://www.flickr.com/photos/usdagov
 abstract: /assets/files/microloans-for-farmers.pdf
