@@ -1,0 +1,27 @@
+.offscreen {
+	left: -10000px; top: auto; width: auto; height: auto; overflow: hidden; position: absolute;
+}
+.offscreen:focus {
+	width: auto; height: auto; position: static;
+}
+.context-screenreader {
+	padding: 0px !important; border: 0px currentColor !important; border-image: none !important; width: 1px !important; height: 1px !important; overflow: hidden; position: absolute !important; clip: rect(1px, 1px, 1px, 1px);
+}
+.screen-reader-popup {
+	background: white; padding: 10px; left: -10000px; top: auto; width: auto; height: auto; overflow: hidden; float: left; display: inline-block; position: absolute;
+}
+.screen-reader-popup:focus {
+	left: auto;
+}
+a:hover {
+	outline: rgb(53, 104, 169) dashed 1px !important;
+}
+a:focus {
+	outline: rgb(53, 104, 169) dashed 1px !important;
+}
+a:active {
+	outline: rgb(53, 104, 169) dashed 1px !important;
+}
+.ab-icon--report::before {
+	top: 2px; content: "\f481";
+}

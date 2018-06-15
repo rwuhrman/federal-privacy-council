@@ -488,10 +488,10 @@ body {
 
 .usa-grid,
 .usa-grid-full {
-  max-width: 1200px;
+  max-width: 1500px;
   margin-left: auto;
   margin-right: auto;
-  max-width: 1040px;
+  max-width: 1200px;
 }
 
 .usa-grid::after,
@@ -4444,3 +4444,157 @@ input.usa-input-medium {
   top: 0;
   transition: all 0.2s ease-in-out;
 }
+
+
+
+
+.tbtable {
+  display: table;
+  width: 100%;
+  margin-bottom: 2em;
+  vertical-align: top;
+}
+
+.tbcell {
+  display: table-cell;
+  vertical-align: top;
+}
+
+.tbleft {
+  background: #ffffff;
+  vertical-align: top;
+}
+
+.tbright {
+  background: #ffffff;
+  vertical-align: top;
+  text-align: right /* only needed for the table version */
+}
+
+.tbcell div {
+  display: inline-block;
+  vertical-align: top;
+  background: #ffffff;
+  padding: 1em
+}
+
+
+* {
+    box-sizing: border-box;
+}
+
+
+/* Create four equal columns that floats next to each other */
+.column4 {
+    float: left;
+    width: 25%;
+    padding: 3px;
+    
+}
+
+.column18 {
+    float: left;
+    width: 19%;
+    padding: 3px;
+    
+}
+
+.column33 {
+    float: left;
+    width: 32%;
+    padding: 3px;
+    
+}
+
+/* Clear floats after the columns */
+.row4:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media (max-width: 600px) {
+    .column {
+        width: 100%;
+    }
+}
+
+.page_banner_header {
+  font-family: 'Poppins', sans-serif;
+  COLOR: #FFFFFF; 
+  font-size: 42px; align: left;
+}
+
+.page_sub_banner_header {
+  font-family: 'Poppins', sans-serif;
+  COLOR: #FFFFFF; 
+  font-size: 24px; align: left;
+}
+
+.section_header {
+ font-family: 'Poppins', sans-serif; 
+ COLOR: #515151; 
+ font-size: 28px; 
+ align: left;
+}
+
+
+.sub_section_header {
+ font-family: 'Poppins', sans-serif; 
+ COLOR: #515151; 
+ font-size: 20px; 
+ align: left;
+}
+
+
+.person_font {
+ font-family: 'Poppins', sans-serif; 
+ COLOR: #3086CC; 
+ font-size: 18px; 
+ align: left;  
+}
+
+.agency_font {
+ font-family: 'Poppins', sans-serif; 
+ COLOR: #000000; 
+ font-size: 10px; 
+}
+
+
+.icon_caption {
+ font-family: 'Poppins', sans-serif; 
+ COLOR: #0071bc; 
+ font-size: 20px; 
+}
+
+
+.post-date  {font-color: #ffffff; }
+
+.footer_links_title  { font-size: 18px; font-weight: bold; }
+
+.footer_link {color: #ffffff;}
+
+
+.hero_style {
+  font-family: 'Poppins', sans-serif;
+  COLOR: #FFFFFF;
+  font-size: 22px;  
+}
+
+.hero_sub_style {
+  font-family: 'Poppins', sans-serif;
+  COLOR: #FFFFFF;
+  font-size: 16px;  
+}
+
+
+.blue_cell  {
+  
+  border-style: hidden; 
+  background-color: #215C8C;
+  
+}
+
+
+

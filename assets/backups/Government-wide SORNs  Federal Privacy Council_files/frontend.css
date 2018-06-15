@@ -1,0 +1,285 @@
+.wrap-forms .wrap-step {
+	background: rgb(247, 247, 247); width: 100%; height: 52px; margin-bottom: 37px; border-top-color: rgb(229, 229, 229); border-bottom-color: rgb(229, 229, 229); border-top-width: 1px; border-bottom-width: 1px; border-top-style: solid; border-bottom-style: solid; display: block;
+}
+.wrap-forms .wrap-step .steps {
+	list-style: none; margin: 0px; padding: 11px 20px 0px; text-align: justify;
+}
+.wrap-forms .wrap-step .steps::after {
+	width: 100%; height: 0px; display: inline-block; content: "";
+}
+.wrap-forms .wrap-step .steps li {
+	display: inline-block;
+}
+.wrap-forms .wrap-step .steps .step {
+	color: rgb(15, 106, 184); font-size: 15px; font-weight: 700; text-decoration: none;
+}
+.wrap-forms .wrap-step .steps .step span {
+	background: rgb(15, 106, 184); border-radius: 50%; width: 15px; height: 15px; text-align: center; color: rgb(255, 255, 255); line-height: 15px; font-size: 10px; vertical-align: text-bottom; display: inline-block;
+}
+.wrap-forms .wrap-step .steps li.active-step .step span {
+	background: rgb(43, 43, 43);
+}
+.wrap-forms .wrap-step .steps li.active-step .step {
+	border-color: rgb(43, 43, 43); color: rgb(43, 43, 43);
+}
+.wrap-forms .wrap-step .steps .step:hover {
+	border-color: rgb(43, 43, 43); color: rgb(43, 43, 43);
+}
+.wrap-forms .wrap-step .steps .step:hover strong {
+	border-color: rgb(43, 43, 43); color: rgb(43, 43, 43);
+}
+.wrap-forms .wrap-step .steps .step:hover span {
+	background: rgb(43, 43, 43);
+}
+.wrap-forms .wrap-step .steps .step strong {
+	border-bottom-color: rgb(15, 106, 184); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.wrap-forms .wrap-step .steps li.active-step .step strong {
+	border: currentColor; border-image: none;
+}
+.wrap-forms .field-text {
+	width: 100%; margin-bottom: 23px;
+}
+.wrap-forms .field-gap {
+	width: 100%; margin-bottom: 23px;
+}
+.wrap-forms .field-textarea {
+	width: 100%; margin-bottom: 23px;
+}
+.wrap-forms .field-select {
+	width: 100%; margin-bottom: 23px;
+}
+.wrap-forms .field-upload {
+	width: 100%; margin-bottom: 23px;
+}
+.wrap-forms .field-date {
+	width: 100%; margin-bottom: 23px;
+}
+.wrap-forms .field-time {
+	width: 100%; margin-bottom: 23px;
+}
+.wrap-forms .field-multiple {
+	width: 100%; margin-bottom: 23px;
+}
+.wrap-forms .field-rating {
+	width: 100%; margin-bottom: 23px;
+}
+.wrap-forms .field-table {
+	width: 100%; margin-bottom: 23px;
+}
+.wrap-forms .field-checkbox {
+	margin-bottom: 15px;
+}
+.wrap-forms .field-radio {
+	margin-bottom: 15px;
+}
+.wrap-forms .field-address.field-text {
+	margin-bottom: -8px;
+}
+.wrap-forms .field-multiple div[class*='field-'] {
+	width: 48%; margin-bottom: 0px; display: inline-block;
+}
+.wrap-forms .wrap-rating .rating span {
+	font-size: 19px;
+}
+.wrap-forms .wrap-rating .rating-title {
+	margin-bottom: 19px;
+}
+.wrap-forms label {
+	width: 100%;
+}
+.wrap-forms input {
+	width: 100%;
+}
+.wrap-forms select {
+	width: 100%;
+}
+.wrap-forms .field-address.field-text input {
+	margin-bottom: 31px;
+}
+.wrap-forms .field-address.field-text textarea {
+	margin-bottom: 31px;
+}
+.wrap-forms .field-address.field-text select {
+	margin-bottom: 31px;
+}
+.wrap-forms .field-address.field-text input:last-child {
+	margin-bottom: 0px;
+}
+.wrap-forms label {
+	font-size: 15px; font-weight: bold; margin-bottom: 8px; display: inline-block;
+}
+.wrap-forms sup {
+	left: 2px; top: 0px; color: rgb(192, 57, 43); font-size: 16px;
+}
+.wrap-forms input {
+	padding: 0px 15px; height: 41px; font-size: 14px;
+}
+.wrap-forms select {
+	padding: 0px 15px; height: 41px; font-size: 14px;
+}
+.wrap-forms textarea {
+	padding: 8px 15px; height: 162px; line-height: 22px; font-size: 14px;
+}
+.wrap-forms select {
+	border-color: rgb(229, 229, 229);
+}
+.wrap-forms .field-gap input.fill-gap {
+	background: none; border-width: medium medium 1px; border-style: none none solid; border-color: currentColor currentColor rgb(128, 128, 128); margin: 0px; padding: 0px; border-radius: 0px; border-image: none; text-align: left;
+}
+.wrap-forms .field-gap input.fill-gap:hover {
+	background: none; border-width: medium medium 1px; border-style: none none solid; border-color: currentColor currentColor rgb(128, 128, 128); border-image: none;
+}
+.wrap-forms .field-gap input.fill-gap:focus {
+	background: none; border-width: medium medium 1px; border-style: none none solid; border-color: currentColor currentColor rgb(128, 128, 128); border-image: none;
+}
+.wrap-forms div[class*='field-'] .omega {
+	width: 48%; display: inline-block;
+}
+.wrap-forms div[class*='field-'] .omega-right.omega {
+	float: right;
+}
+.wrap-forms div[class*='field-'] .omega-right {
+	float: right;
+}
+.wrap-forms .field-time .time {
+	width: 82%; display: inline-block;
+}
+.wrap-forms .field-time .time-format {
+	width: 16%; float: right; display: inline-block;
+}
+.wrap-forms .field-upload .upload-file-input {
+	width: auto; display: inline-block;
+}
+.wrap-forms .field-upload .upload-file-button {
+	width: auto; display: inline-block;
+}
+.wrap-forms .field-upload .upload-file-input {
+	width: 86%;
+}
+.wrap-forms .field-upload .upload-file-button {
+	font-size: 12px; font-weight: 400; float: right;
+}
+.wrap-forms .field-table table {
+	border-color: rgb(229, 229, 229);
+}
+th {
+	border-color: rgb(229, 229, 229);
+}
+td {
+	border-color: rgb(229, 229, 229);
+}
+.wrap-forms .field-table table thead tr td {
+	background: rgb(247, 247, 247); padding: 8px 20px; text-align: center; line-height: 52px; min-height: 73px;
+}
+.wrap-forms .field-table table thead tr td span {
+	line-height: normal; vertical-align: middle; display: inline-block;
+}
+.wrap-forms .field-table table tbody tr td {
+	padding: 15px; line-height: 20px;
+}
+.wrap-forms .field-table table tbody tr td.input-styled {
+	padding: 0px; text-align: center;
+}
+.wrap-forms .field-table table tbody tr td.input-styled .custom-radio {
+	line-height: normal; vertical-align: middle; display: inline-block;
+}
+.wrap-forms input:-ms-input-placeholder {
+	color: rgb(154, 154, 154); text-transform: none; font-size: 14px; font-style: italic; font-weight: 400;
+}
+.wrap-forms textarea:-ms-input-placeholder {
+	color: rgb(154, 154, 154); text-transform: none; font-size: 14px; font-style: italic; font-weight: 400;
+}
+.wrap-forms .custom-checkbox {
+	position: relative;
+}
+.wrap-forms .custom-radio {
+	position: relative;
+}
+.wrap-forms .custom-checkbox input {
+	width: auto; height: auto; vertical-align: middle;
+}
+.wrap-forms .custom-radio input {
+	width: auto; height: auto; vertical-align: middle;
+}
+.wrap-forms .custom-checkbox::selection {
+	background: none; color: inherit;
+}
+.wrap-forms .custom-radio::selection {
+	background: none; color: inherit;
+}
+.wrap-forms .custom-checkbox label {
+	width: auto; line-height: 17px; font-size: 14px; font-weight: 400; margin-bottom: 6px; display: inline-block; position: relative; cursor: pointer; min-height: 17px;
+}
+.wrap-forms .custom-radio label {
+	width: auto; line-height: 17px; font-size: 14px; font-weight: 400; margin-bottom: 6px; display: inline-block; position: relative; cursor: pointer; min-height: 17px;
+}
+.wrap-forms .custom-checkbox label::selection {
+	background: none; color: inherit;
+}
+.wrap-forms .custom-radio label::selection {
+	background: none; color: inherit;
+}
+.wrap-forms .custom-checkbox label.focus {
+	
+}
+.wrap-forms .custom-radio label.focus {
+	
+}
+.wrap-forms .section-break {
+	margin: 42px auto 39px; padding-top: 25px; border-top-color: rgb(229, 229, 229); border-top-width: 1px; border-top-style: solid;
+}
+.wrap-forms .section-break .title {
+	color: rgb(51, 51, 51); text-transform: uppercase; font-family: "Arial"; font-size: 32px; font-weight: 400; margin-bottom: 13px;
+}
+.wrap-forms .section-break .sub-title {
+	color: rgb(89, 89, 89); font-family: "Arial"; font-size: 13px; font-weight: 400;
+}
+.wrap-forms .nav-form {
+	width: 100%; text-align: center; padding-top: 29px; margin-top: 48px; border-top-color: rgb(229, 229, 229); border-top-width: 1px; border-top-style: solid;
+}
+.wrap-forms .nav-form .button-nav-form.button {
+	display: inline-block;
+}
+.wrap-forms .nav-form .number-pages-form {
+	display: inline-block;
+}
+.wrap-forms .nav-form .button-nav-form.button {
+	padding: 10px 20px; font-weight: 400; border-top-left-radius: 0px;
+}
+.wrap-forms .nav-form .number-pages-form {
+	color: rgb(51, 51, 51); text-transform: uppercase; font-size: 17px; margin-top: 7px;
+}
+.wrap-forms .nav-form .next.button-nav-form.button {
+	float: right;
+}
+.wrap-forms .nav-form .prev.button-nav-form.button {
+	float: left;
+}
+.wrap-forms .field-columns-0::after {
+	width: 100%; height: 0px; display: inline-block; content: "";
+}
+.wrap-forms .field-columns-2::after {
+	width: 100%; height: 0px; display: inline-block; content: "";
+}
+.wrap-forms .field-columns-3::after {
+	width: 100%; height: 0px; display: inline-block; content: "";
+}
+.wrap-forms .field-columns-0 .options {
+	padding-right: 5px; float: left; box-sizing: border-box; -webkit-box-sizing: border-box; -moz-box-sizing: border-box;
+}
+.wrap-forms .field-columns-2 .field-column {
+	padding-right: 5px; float: left; box-sizing: border-box; -webkit-box-sizing: border-box; -moz-box-sizing: border-box;
+}
+.wrap-forms .field-columns-3 .field-column {
+	padding-right: 5px; float: left; box-sizing: border-box; -webkit-box-sizing: border-box; -moz-box-sizing: border-box;
+}
+.wrap-forms .field-columns-0 .options {
+	padding-right: 15px;
+}
+.wrap-forms .field-columns-2 .field-column {
+	width: 50%;
+}
+.wrap-forms .field-columns-3 .field-column {
+	width: 33.33%;
+}
