@@ -1,31 +1,14 @@
 ---
 layout: project
-title: Act with Accountability
-description: A single email to military Servicemembers nearly doubled the rate of enrollment for a savings plan.
-project_color: 25669C
-Link1: https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/m-17-05.pdf
-Link1Text: FY 2016-2017 Reporting Requirements
-Link2: https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2016/m_16_24_0.pdf
-Link2Text: SAOP Responsibilities
-Link3: 
-Link3Text: Find a Career in Federal Privacy
-permalink: /projects/tsp-enrollment/
+title: United States Department of Agriculture
+description: 
+permalink: /agencies/usda/
 tags: project
+link: https://www.usda.gov/home/privacy-policy/privacy-office
 image: /assets/img/project-images/roth-tsp-enrollment.jpg
-abstract: /assets/files/servicemember-tsp-enrollment.pdf
+abstract: /assets/files/microloans-for-farmers.pdf
 ---
-## What is the issue?
 
-The financial readiness of our military Servicemembers and their families is a priority of the Department of Defense (DOD). The military, like the civilian Federal government, offers a workplace savings plan called the Thrift Savings Plan (TSP) to help Servicemembers save and invest for their futures. However, just 42 percent of active duty Servicemembers are enrolled in TSP, compared to 87 percent of civilian Federal employees.
-
-## What is the insight?
-
-In order to enroll in TSP, Servicemembers need to know about TSP, login to the Department of Defense’s Defense Finance and Accounting Service (DFAS) MyPay website, and select a contribution percentage. Research from behavioral science finds that clarifying and streamlining enrollment processes such as this can promote participation in programs. As TSP savings through traditional (pre-tax) or Roth (after-tax) contributions can confer both short- and long-term benefits, many of the over 800,000 non-enrolled Servicemembers might choose to enroll in TSP if actively presented with a chance to do so.
-
-## What was the intervention?
-
-Servicemembers who were not enrolled in TSP were sent emails that highlighted the opportunity and potential benefits of enrolling and saving in TSP. Eight different messages employed different combinations of behavioral insights: describing clear action steps to enroll, presenting enrollment as a chance to make a fresh-start with saving, describing the decision to enroll in TSP as a choice between two options, and emphasizing the short- and long-term benefits of saving. A ninth email was designed using language drawn from the TSP website. Most of the over 800,000 Servicemembers who were not enrolled in TSP as of April 27, 2015 received one of the nine emails.
 
 ## What was the impact?
-
-The most effective email clarified the action steps needed to enroll and emphasized the potential long-term benefits of saving even a little each month. Sixty-seven percent more Servicemembers—4,930—enrolled in TSP in May 2015 as a result of being sent one of the messages designed using behavioral insights, compared to receiving no message at all.
+The letters more than doubled the amount of microloan-related activity in FSA county offices, introducing the microloan program widely to farmers who might benefit.  The letter also influenced the number of successful applicants, increasing the percentage from approximately 0.09 percent to 0.11 percent.
