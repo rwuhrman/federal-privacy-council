@@ -1,76 +1,162 @@
 ---
 layout: base
 ---
-<section >
-  <div class="standard-unit" style="background-image: url('{{ page.background-image | prepend: site.baseurl }}'); height: 200px;">
-   <BR><BR><BR><BR>
-    <section class="usa-grid usa-section">
-     <font style="font-family: 'Poppins', sans-serif; COLOR: #FFFFFF; font-size: 42px; align: left;">Federal Privacy Council</font>
-    </section>
-  </div>
-</section>
-
-     
-<section style="background-color: #FFFFFF;">
-   <div class="standard-unit" style="background-color:#FFFFFF;">
- {% include federal-privacy-council.html %}  
-  </div>
- </section>
-
-     
-  
-<section style="background-color: #FF522D;">
-   <div class="standard-unit" style="background-color:#FF522D;">
- {% include federal-privacy-council-objectives.html %}  
-  </div>
- </section>
-
-      
-      
-     
-<section style="background-color: #FFFFFF;">
-   <div class="standard-unit" style="background-color:#FFFFFF;">
- {% include federal-privacy-council-organization.html %}  
-  </div>
- </section>
-
-      
-          
-<section style="padding-top: 50px; background-image: none; background-color: #215C8C;">
-   <div class="standard-unit" style="background-color: #215C8C">
- {% include federal-privacy-council-other-executive-councils.html %}  
-  </div>
- </section>
-
-     
-     
-   
-
-{% if page.banner-heading %}
-<section class="usa-section banner tagline" style="background-color: #a1b1bc;">
+<section class="usa-section" style="background-image: url('{{ page.background-image | prepend: site.baseurl }}'); height: 210px; -webkit-box-shadow: inset 0px -6px 300px 20px rgba(0,0,0,0.75);
+-moz-box-shadow: inset 0px -6px 300px 20px rgba(0,0,0,0.75);
+box-shadow: inset 0px -6px 300px 20px rgba(0,0,0,0.75);">
   <div class="usa-grid">
-
-    <div class="usa-width-one-whole usa-end-row">
-     
-<!--
-    <div class="usa-width-whole hero-content">
-  -->
-<h2>{{ page.banner-heading }}</h2>
-      {% if page.banner-text %}
-        <p>{{ page.banner-text }}</p>
-      {% endif %}
-      {% if page.banner-button-text %}
-      <div class="center-content">
-        <a href="{{ page.banner-button-link | prepend: site.baseurl }}" class="usa-button">{{ page.banner-button-text }}</a>
-      </div>
-      {% endif %}
+    <div class="usa-width-one-whole">
+      <h1 style="color: #ffffff;">{{ page.hero-text }}</h1>
     </div>
   </div>
 </section>
-{% endif %}
-    
-    <BR>
 
- {% include quick.links.html %}
-  
-  
+<section class="usa-section" style="background-color: #FFFFFF;">
+   <div class="usa-grid">
+     <div class="usa-width-one-half">
+       <h2 id="organization">Purpose</h2>
+       <h4>Build on Existing Interagency Efforts to Protect Privacy</h4>
+      The Federal Privacy Council is the principal interagency forum to improve the privacy practices of agencies and
+      entities acting on their behalf. The work of the Federal Privacy Council shall strengthen protections of people’s personal
+      information and privacy rights across the Federal Government. To achieve this purpose, the Federal Privacy Council shall:
+      support interagency efforts to protect privacy and provide expertise and assistance to agencies; expand the skill and career
+      development opportunities of agency privacy professionals; improve the management of agency privacy programs by identifying
+      and sharing lessons learned and best practices; and promote collaboration between and among agency privacy professionals to
+      reduce unnecessary duplication of efforts and to ensure the effective, efficient, and consistent implementation of privacy policy government-wide.
+      <BR>
+     <A HREF="https://www.gpo.gov/fdsys/pkg/FR-2016-02-12/pdf/2016-03141.pdf" class="usa-button">Executive Order</A>
+   </div>
+
+    <div class="usa-width-one-half">
+      <h2>Vision</h2>
+      <h4>Ensure that Privacy Practices and Privacy Programs Evolve to Help Promote and Maintain our Nation’s Core Values</h4>
+The Federal Privacy Council will help to ensure that as Federal agencies carry out the diverse missions of the Federal Government, they do so in a manner that honors and respects the personal information entrusted to the Federal Government by the American people and other individuals. Today, the United States is in the midst of a revolution of innovation and opportunity based on the explosive growth of the digital economy and the wide-scale adoption of new technology.  To keep pace with this change, the Federal Privacy Council will identify more effective and innovative ways to help protect privacy across the Government while supporting efforts to deliver better and more efficient services for the American people.
+  <BR>
+    <A HREF="{{ site.baseurl }}/council-members/" class="usa-button">Council Members</A>
+   </div>
+  </div>
+ </section>
+
+<section class="usa-section" style="background-color: #FF522D; color: #FFFFFF">
+   <div class="usa-grid">
+     <div class="usa-width-one-whole">
+     <h2 style="color:#FFFFFF;">Objectives</h2>
+     The Federal Privacy Council shall perform functions that include the following:<br><br>
+     </div>
+
+   <div class="usa-grid">
+       <div class="usa-width-one-half">
+         <h3 style="color:#ffffff;"><i class="fas fa-check"></i>  Develop Recommendations</h3>
+         for the Office of Management and Budget (OMB) on Federal Government privacy policies and requirements
+       </div>
+
+      <div class="usa-width-one-half">
+        <h3 style="color:#ffffff;"><i class="fas fa-bullhorn"></i>  Inform government-wide priorities</h3>
+        on privacy policy and monitor their implementation
+      </div>
+  </div>
+  <br><br>
+  <div class="usa-grid">
+      <div class="usa-width-one-half">
+        <h3 style="color:#ffffff;"><i class="far fa-lightbulb"></i>  Share lessons learned</h3>
+        ideas, best practices, and innovative approaches related to privacy and the responsible management of PII
+      </div>
+
+      <div class="usa-width-one-half">
+        <h3 style="color:#ffffff;"><i class="fas fa-boxes"></i>  Promote the development</h3>
+      and use by agencies of common performance measures to help evaluate the effectiveness of privacy programs
+        </div>
+  </div>
+  <br><br>
+  <div class="usa-grid">
+      <div class="usa-width-one-half">
+         <h3 style="color:#ffffff;"><i class="fas fa-folder"></i>  Work with the Archivist of the United States</h3>
+      to assess how the Federal Records Act can be addressed effectively by Federal privacy initiatives and activities
+        </div>
+
+      <div class="usa-width-one-half">
+        <h3 style="color:#ffffff;"><i class="fas fa-cogs"></i>  Assist OMB</h3>
+        in the identification, development, and coordination of multi-agency projects and other innovative initiatives to improve how the Federal Government manages privacy risks while embracing new technologies
+      </div>
+  </div>
+  <br><br>
+  <div class="usa-grid">
+      <div class="usa-width-one-half">
+        <h3 style="color:#ffffff;"><i class="fas fa-code-branch"></i>  Partner with NIST</h3>
+        as appropriate, to develop recommendations  on privacy standards and guidelines
+       </div>
+
+      <div class="usa-width-one-half">
+        <h3 style="color:#ffffff;"><i class="fas fa-users"></i>  Work with OPM</h3>
+        to assess and address the hiring, training, classification, and professional development needs of Federal employees in areas related to privacy
+      </div>
+  </div>
+  <br><br>
+  <div class="usa-grid">
+      <div class="usa-width-one-half">
+       <h3 style="color:#ffffff;"><i class="fas fa-comments"></i>  Promote collaboration</h3>
+        and community building among Senior Agency Officials for Privacy (SAOPs) and other privacy professionals for purposes of sharing best practices, transferring knowledge, and developing a unified approach for addressing Federal privacy challenges
+        practices, and innovative approaches related to privacy and the responsible management of PII
+      </div>
+
+      <div class="usa-width-one-half">
+        <h3 style="color:#ffffff;"><i class="fas fa-binoculars"></i>  Solicit perspectives</h3>
+      from the Federal Chief Information Officer Council, Chief Financial Officers Council, Chief Acquisition Officers Council, Chief Human Capital Officers Council, Budget Officers Advisory Council, and other key groups in the Federal Government, as well as industry, academia, and other Federal, tribal, and state and local governments, on matters of concern to the Council as appropriate
+      </div>
+
+  </div>
+ </section>
+
+
+<section class="usa-section" style="background-color: #215C8C; color: #ffffff;">
+  <div class="usa-grid">
+    <div class="usa-width-one-whole">
+    <h2 style="color:#FFFFFF;" id="other-councils">Other Executive Councils</h2><br>
+    </div>
+    <br><br>
+       <div class="usa-width-one-half">
+            <img src="{{ site.baseurl }}/assets/img/council.pic.png"> Performance Improvement Council | <A HREF="https://www.pic.gov/" style="color:#FFFFFF;">pic.gov</A>
+       </div>
+       <div class="usa-width-one-half">
+            <img src="{{ site.baseurl }}/assets/img/council.chco.png"> Chief Human Capital Officer's Council | <A HREF="https://www.chcoc.gov/" style="color:#FFFFFF;">chcoc.gov</A>
+        </div>
+     </div>
+     <br>
+     <div class="usa-grid">
+       <div class="usa-width-one-half">
+            <img src="{{ site.baseurl }}/assets/img/council.pmc.png"> President's Management Council | <A HREF="http://www.gsa.gov/portal/content/133811" style="color:#FFFFFF;">gsa.gov</A>
+       </div>
+       <div class="usa-width-one-half">
+            <img src="{{ site.baseurl }}/assets/img/council.cioc.png"> Chief Information Officer's Council | <A HREF="http://www.cio.gov" style="color:#FFFFFF;">cio.gov</A>
+       </div>
+      </div>
+      <br>
+   <div class="usa-grid">
+      <div class="usa-width-one-half">
+          <img src="{{ site.baseurl }}/assets/img/council.cloc.png"> Chief Learning Officer's Council | <A HREF="http://clo.knowledgeportal.us/" style="color:#FFFFFF;">clo.knowledgeportal.us/</A>
+      </div>
+
+      <div class="usa-width-one-half">
+          <img src="{{ site.baseurl }}/assets/img/council.frpc.png"> Federal Real Property Council | <A HREF="http://www.gsa.gov/portal/content/104918" style="color:#FFFFFF;">gsa.gov</A>
+        </div>
+   </div>
+   <br>
+   <div class="usa-grid">
+      <div class="usa-width-one-half">
+        <img src="{{ site.baseurl }}/assets/img/council.cfoc.png"> Chief Financial Officer's Council | <A HREF="https://www.cfo.gov/" style="color:#FFFFFF;">cfo.gov</A>
+      </div>
+      <div class="usa-width-one-half">
+        <img src="{{ site.baseurl }}/assets/img/council.caoc.png"> Chief Acquisition Officer's Council | <A HREF="https://www.acquisition.gov/cao-home" style="color:#FFFFFF;">cao.gov</A>
+      </div>
+    </div>
+    <br>
+    <div class="usa-grid">
+        <div class="usa-width-one-half">
+          <img src="{{ site.baseurl }}/assets/img/council.cigie.png"> Council of the Inspectors General on Integrity and Efficiency | <A HREF="https://www.ignet.gov/" style="color:#FFFFFF;">ignet.gov</A>
+        </div>
+        <div class="usa-width-one-half">
+            <img src="{{ site.baseurl }}/assets/img/council.cfoia.png"> Chief FOIA Officer's Council | <A HREF="https://www.justice.gov/oip/chief-foia-officers-council" style="color:#FFFFFF;">justice.gov</A>
+        </div>
+     </div>
+
+</section>

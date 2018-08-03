@@ -76,3 +76,100 @@ $on-laptop:        800px;
         "footer",
         "team"
 ;
+
+/* glossary index */
+.alpha-index {
+    background-color: #f9f9f9;
+    width: 100%;
+    min-height: 65px;
+    padding: 20px 20px;
+    -webkit-box-shadow: 5px 5px 5px 0px rgba(204,204,204,1);
+    -moz-box-shadow: 5px 5px 5px 0px rgba(204,204,204,1);
+    box-shadow: 5px 5px 5px 0px rgba(204,204,204,1);
+    overflow: hidden;
+}
+.alpha-index a {
+    min-width: 40px;
+    font-size: 25px;
+    font-weight: 700;
+    text-align: center;
+    padding: 5px 10px;
+    text-decoration: none;
+    float: left;
+    display: block;
+}
+.alpha-index a:hover{
+    text-decoration: underline;
+}
+
+.back-to-top {
+    float: right;
+    text-align: right;
+}
+
+.back-to-top a{
+    text-decoration: none;
+
+}
+.back-to-top a:hover{
+    text-decoration: underline;
+    color: #ccc;
+}
+
+.disabled {
+    cursor: not-allowed;
+    opacity: 0.5;
+    text-decoration: none;
+}
+.disabled a:hover{
+    cursor: not-allowed;
+    opacity: 0.5;
+    text-decoration: none;
+}
+
+.glossary-entry {
+    margin-top: 30px;
+}
+/* vertical tabs */
+.tab {
+    float: left;
+    background-color: #ffffff;
+    width: 15%;
+    height: auto;
+    border-right: 2px solid #ccc;
+    -webkit-box-shadow: inset -5px 0px 5px 0px rgba(204,204,204,1);
+    -moz-box-shadow: inset -5px 0px 5px 0px rgba(204,204,204,1);
+    box-shadow: inset -5px 0px 5px 0px rgba(204,204,204,1);
+}
+
+.tab button {
+    display: block;
+    background-color: #e31c3d;
+    color: #ffffff;
+    padding: 20px 10px;
+    width: 100%;
+    border-radius: 20px 0px 0px 20px;
+    border: none;
+    outline: none;
+    text-align: left;
+    cursor: pointer;
+    transition: 0.3s;
+    font-size: 15px;
+}
+
+.tab button:hover {
+    background-color: #e59393;
+    color: #444444;
+}
+
+.tab button.active {
+    background-color: #981b1e;
+}
+
+.tabcontent {
+    float: left;
+    padding: 0px 12px;
+    width: 70%;
+    height: auto;
+
+}

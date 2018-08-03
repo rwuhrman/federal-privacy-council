@@ -6,22 +6,18 @@
         <ul class="usa-unstyled-list">
         {% for link in site.footer.links %}
           <li class="usa-width-one-sixth usa-footer-primary-content">
-            <a class="usa-footer-primary-link" href="{{ link.href }}">{{ link.text }}</a>
+            <a class="usa-footer-primary-link" href="{{ link.permalink | prepend: site.baseurl }}">{{ link.text }}</a>
           </li>
         {% endfor %}
         </ul>
     </nav>
     </div>
-    <b><h4 align="center">Latest Federal Privacy Council News:</h4></b>
-    <a class="usa-footer-primary-link" href="https://www.fpc.gov/blog-fpc-idpa/" align="center">Federal Privacy Council meets with International Data Protection Authorities</a></li>
     </div>
   {% endif %}
   <div class="usa-footer-secondary_section">
     <div class="usa-grid">
       <div class="usa-footer-logo usa-width-one-half">
-        {% if site.footer.image %}
-          <img class="usa-footer-logo-img" src="{{ site.footer.image | prepend: site.baseurl }}" alt="Logo image">
-        {% endif %}
+          <img class="usa-footer-logo-img" src="https://www.fpc.gov/assets/img/fpc_logo.png" alt=" FPC Logo image">
         {% if site.footer.text %}
           <p>{{ site.footer.text }} <a href="https://github.com/{{ site.org_name }}/{{ site.repo_name }}/edit/{{ site.branch }}/{{ page.path }}" target="_blank">Suggest an edit</a>.</p>
         {% endif %}
@@ -46,6 +42,8 @@
             <p><a href="tel:{{ site.footer.contact.phonenumber }}">{{ site.footer.contact.phonenumber }}</a></p>
           {% endif %}
           <p><a href="mailto:{{ site.footer.contact.email }}">{{ site.footer.contact.email }}</a></p>
+          <p><a href="{{ site.footer.sitelink.url | prepend: site.baseurl }}">{{ site.footer.sitelink.text}}</a></p>
+          <p><a href="{{ site.baseurl }}/about-this-site/">About this Site</a> | <a href="{{ site.baseurl }}/privacy-policy/">Privacy Policy</a> | <a href="{{ site.baseurl }}/disclaimer/">Disclaimer</a></p>
         </address>
 
       </div>

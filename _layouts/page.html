@@ -1,12 +1,21 @@
 ---
 layout: base
 ---
+{% if page.header-image %}
+<section class="usa-section" style="background-image: url('{{ page.header-image | prepend: site.baseurl }}'); max-height: 200px;">
+      <div class="usa-grid">
+        <div class="usa-width-one-whole">
+          <h1 style="color: #ffffff;">{{ page.hero-text }}</h1>
+        </div>
+      </div>
+        {% endif %}
+</section>
 
-<section class="usa-section usa-grid">
-  <h1> {{ page.title }}</h1>
-  {% if page.image %}
-  <div class="page--banner" style="background-image: url({{ page.image | prepend: site.baseurl }});"></div>
-  {% endif %}
-  {{ content }}
+<section class="usa-section">
+  <div class="usa-grid">
+    <div class="usa-width-one-whole">
+
+    {{ content }}
+    </div>
   </div>
 </section>

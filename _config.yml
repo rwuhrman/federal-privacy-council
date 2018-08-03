@@ -5,8 +5,8 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://www.fpc.gov/" # the base hostname & protocol for your site
 logo: /assets/img/logo-main.png
 feature_image: /assets/img/feature-background.jpg
-org_name: 18f
-repo_name: federalist-modern-team-template
+org_name: Federal Privacy Council
+repo_name: gsa/federal-privacy-council
 
 colors:
   background: '#ffffff'
@@ -53,6 +53,8 @@ defaults:
       - page
       - "project-list"
       - project
+      - resources-page
+      - agencies
       - "team-list"
       - team
 
@@ -61,7 +63,7 @@ forms:
   heading: Sign up to receive updates from our team
   url: https://docs.google.com/forms/d/1Tsdm_2spbxWnmTFMrH5eHxpOAN9W4LB3eaMMXJ1N0rU/formResponse
   button: Subscribe
-  privacypolicy: 
+  privacypolicy:
   fields:
     - type: email
       name: entry.1440502332
@@ -72,21 +74,33 @@ forms:
 
 footer:
   links:
-      - text: 
-        href: 
-      - text: 
-        href: 
-        image: 
+      - text: About
+        permalink: /federal-privacy-council/
+      - text: Law
+        permalink: /law-library/
+      - text: Resources
+        permalink: /resources/
+      - text: Agencies
+        permalink: /agencies/
+      - text: Careers
+        permalink: /careers/
+        image: /assets/img/logo-main.png
+  sitelink:
+    - url: /about-this-site/
+      text: About this Site
+    - url: /privacy-policy/
+      text: Privacy Policy
+    - url: /disclaimer/
+      text: Disclaimer
   contact:
-    name: 
-    phonenumber: 
-    email: 
+    name: Federal Privacy Council
+    phonenumber:
+    email: privacy.council@gsa.gov
     twitter:
-      - 18f
-    facebook: 
-    youtube: 
-    rss: 
-  text: 
+    facebook:
+    youtube:
+    rss:
+  text:
  # Change to a tag line for your agency
 
 # Build settings

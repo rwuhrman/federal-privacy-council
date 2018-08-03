@@ -2,27 +2,20 @@
 layout: base
 ---
 
-<section>
-  <div class="hero-unit" style="background-image: url('{{ page.hero-image | prepend: site.baseurl }}')">
+<section class="usa-hero" style="background-image: url('{{ page.hero-image | prepend: site.baseurl }}')">
     <div class="usa-grid">
-      <div class="usa-width-whole hero-content">
-        <h1 class="hero_style" style="font-size:36px;">{{ page.hero-text }}</h1>
-        <h1 class="hero_sub_style"  style="font-size:18px;">{{ page.hero-by-line }}</h1>
-        <a class="usa-button" style="background-color: transparent; font-size:16px; border-style: solid; 
-        border: 1px;  border-color: #FFFFFF; border-radius: 25px;" 
-           href="{{ page.hero-button-link }}">{{ page.hero-button-text }}</a>
+      <div class="usa-hero-callout">
+         <h2><span>{{ page.hero-text }}</h2>
+         <p>{{ page.hero-by-line }}</p>
+         <a class="usa-button" href="{{ page.hero-button-link }}">{{ page.hero-button-text }}</a>
       </div>
     </div>
-  </div>
 </section>
 
-
 <section class="usa-grid usa-section">
-  <center>
-<h1 class="hero_sub_style"  style="font-size:16px; color: #25669C; "></h1>
-    </CENTER>
-  
-  {% include projects.html %}
+  <div class="usa-width-one-whole">
+   {% include homecards.html %}
+  </div>
 </section>
 
 {% if page.banner-heading %}
@@ -42,12 +35,3 @@ layout: base
   </div>
 </section>
 {% endif %}
-
-<section class="usa-grid usa-section">
-  <div class="usa-width-one-whole usa-end-row">
-    {{ content }}
-    {% if page.content-button-link %}
-      <a href="{{ page.content-button-link | prepend: site.baseurl }}" class="usa-button">{{ page.content-button-text }}</a>
-    {% endif %}
-  </div>
-</section>

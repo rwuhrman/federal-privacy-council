@@ -1,23 +1,28 @@
 <div class="project-container">
 {% for project in site.projects %}
   {% unless project.featured %}
-    <article class="card usa-width-one-third"  style="background-color: #{{ project.project_color }}; border-radius: 15px;">
-      <BR>
+    <article class="card usa-width-one-third">
+      <a class="card-link" href="{{ project.url | prepend: site.baseurl }}" aria-hidden="true" tabindex="-1"></a>
+      <div class="card-image"
+        style="background-image: url(
+        {% if project.image_thumbnail %}
+          {{ project.image_thumbnail | prepend: site.baseurl }}
+        {% else %}
+          {{ project.image | prepend: site.baseurl }}
+        {% endif %}
+        );">
+      </div>
       <div class="card-banner">
         <h3 class="card-description">
-          <span style="font-family: arial; font-size: 16px; color: #FFFFFF;"><CENTER>{{ project.title }}</CENTER></span>
+          <span>{{ project.title }}</span>
         </h3>
-        <p class="card-summary" ><A HREF="{{ project.Link1 }}" style="color: #FFFFFF;">{{ project.Link1Text }}</A></p>
-        <p class="card-summary" ><A HREF="{{ project.Link2 }}" style="color: #FFFFFF;">{{ project.Link2Text }}</A></p>
-        <p class="card-summary"><A HREF="{{ project.Link3 }}"  style="color: #FFFFFF;">{{ project.Link3Text }}</A></p>
+        <p class="card-summary">{{ project.description }}</p>
       </div>
-<!--
       <a class="card-read" href="{{ project.url | prepend: site.baseurl }}">
         Read more
         <span class="usa-sr-only">about {{ project.title }}</span>
       </a>
--->
-</article>
+    </article>
   {% endunless %}
 {% endfor %}
 </div>

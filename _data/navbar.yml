@@ -1,49 +1,68 @@
 assigned:
     -
-        text: Federal Privacy Council
-        href: ./
-        permalink: /federal-privacy-council
-        show_in_menu: true
-        show_in_footer: false
-    -
-        text: Law
-        href: /law-library/
-        permalink: /law-library/
-        show_in_menu: true
-        show_in_footer: false
-    -
-        text: Resources
-        href: ./
+        text: 'About'
         permalink: ./
-        show_in_menu: true
+        show_in_footer: false
+        sectionid: basic-nav-section-one
+        children:
+        -
+            text: 'Federal Privacy Council'
+            permalink: /federal-privacy-council/
+            show_in_footer: false
+        -
+            text: 'Council Members'
+            permalink: /council-members/
+            show_in_footer: false
+    -
+        text: 'Law'
+        permalink: /law-library/
+        show_in_footer: false
+    -
+        text: 'Resources'
+        permalink: ./
+        sectionid: basic-nav-section-two
         show_in_footer: false
         children:
             -
-                text: 'Microloans for Farmers'
-                href: pages/projects/microloans-for-farmers.md
-                show_in_menu: false
+                text: 'Federal Privacy Programs'
+                permalink: /resources/privacy-programs/
                 show_in_footer: false
             -
-                text: 'Reducing Summer Melt'
-                href: pages/projects/reducing-summer-melt.md
-                show_in_menu: false
+                text: 'Office of Management and Budget (OMB)'
+                permalink: /resources/omb/
                 show_in_footer: false
-    -
-        text: 'Implementation'
-        href: ./
-        permalink: ./
-        show_in_menu: true
-        show_in_footer: false
+            -
+                text: 'Privacy and Civil Liberties Oversight Board (PCLOB)'
+                permalink: /resources/pclob/
+                show_in_footer: false
+            -
+                text: 'National Institue of Standards and Technology (NIST)'
+                permalink: /resources/nist/
+                show_in_footer: false
+            -
+                text: 'Helping Consumers'
+                permalink: /resources/helping-consumers/
+                show_in_footer: false
+            -
+                text: 'Government-wide SORNs'
+                permalink: /resources/SORNs/
+                show_in_footer: false
+            -
+                text: 'Beyond the Executive Branch'
+                permalink: /resources/beyond-executive/
+                show_in_footer: false
+            -
+                text: 'Glossary'
+                permalink: /resources/glossary/
+                show_in_footer: false
+
     -
         text: 'Agencies'
-        href: ./
-        permalink: ./
-        show_in_menu: true
+        permalink: /agencies/
         show_in_footer: false
     -
         text: 'Careers'
-        href: _data/projects.yml
-        show_in_menu: false
+        permalink: /careers/
         show_in_footer: false
 
 
