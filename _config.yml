@@ -78,12 +78,12 @@ footer:
         permalink: /federal-privacy-council/
       - text: Law
         permalink: /law-library/
-      - text: Resources
-        permalink: /resources/
-      - text: Agencies
-        permalink: /agencies/
-      - text: Careers
-        permalink: /careers/
+      - #text: Resources
+        #permalink: /resources/
+      - #text: Agencies
+        #permalink: /agencies/
+      - #text: Careers
+        #permalink: /careers/
         image: /assets/img/logo-main.png
   sitelink:
     - url: /about-this-site/
