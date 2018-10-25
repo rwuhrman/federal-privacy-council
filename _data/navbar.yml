@@ -18,19 +18,19 @@ assigned:
         permalink: /law-library/
         show_in_footer: false
     -
-        #text: 'Resources'
-        #permalink: ./
-        #sectionid: basic-nav-section-two
-        #show_in_footer: false
-        #children:
+        text: 'Resources'
+        permalink: ./
+        sectionid: basic-nav-section-two
+        show_in_footer: false
+        children:
             -
                 #text: 'Federal Privacy Programs'
                 #permalink: /resources/privacy-programs/
                 #show_in_footer: false
             -
-                #text: 'Office of Management and Budget (OMB)'
-                #permalink: /resources/omb/
-                #show_in_footer: false
+                text: 'Office of Management and Budget (OMB)'
+                permalink: /resources/omb/
+                show_in_footer: false
             -
                 #text: 'Privacy and Civil Liberties Oversight Board (PCLOB)'
                 #permalink: /resources/pclob/
@@ -44,17 +44,17 @@ assigned:
                 #permalink: /resources/helping-consumers/
                 #show_in_footer: false
             -
-                #text: 'Government-wide SORNs'
-                #permalink: /resources/SORNs/
-                #show_in_footer: false
+                text: 'Government-wide SORNs'
+                permalink: /resources/SORNs/
+                show_in_footer: false
             -
                 #text: 'Beyond the Executive Branch'
                 #permalink: /resources/beyond-executive/
                 #show_in_footer: false
             -
-                #text: 'Glossary'
-                #permalink: /resources/glossary/
-                #show_in_footer: false
+                text: 'Glossary'
+                permalink: /resources/glossary/
+                show_in_footer: false
 
     -
         #text: 'Agencies'
